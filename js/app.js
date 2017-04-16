@@ -64,17 +64,16 @@ $(document).ready(function() {
     }
 
     map.on('moveend', function() {
-        // capturar NW y SE y seleccionar qué rutas voy a mostrar
-        console.log("NW: " + map.getBounds().getNorthWest() + " SE: " +  map.getBounds().getSouthEast());
-        var bboxMap = map.getBounds();
-        for (var id in routes_bboxes) {
-            if (isInside(routes_bboxes[id].getBounds(), bboxMap)) {
-                routes_bboxes[id].addTo(map);
-            }
-        }
+        drawRoutes(map, routes_bboxes);
     });
+    drawRoutes(map, routes_bboxes);
 });
 
-function isInside(bboxRoute, bboxMap) {
-    return true;
+function drawRoutes(map, routes_bboxes) {
+    var bboxMap = map.getBounds();
+    for (var id in routes_bboxes) {
+        if (bboxMap.intersects(routes_bboxes[id].getBounds())) {
+            routes_bboxes[id].addTo(map);
+        }
+    }
 }
