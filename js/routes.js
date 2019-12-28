@@ -1,14 +1,18 @@
 var routes_dict = {
-// 2012
+    // 2012
     "2012-09_Loire-a-Velo": {
         "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
         "cat": biking_cat
     },
-// 2013
+    "2012-11-24-Hayedo-de-Tejera-Negra-2": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-2.gpx",
+      "cat": hiking_cat
+    },
     "2012-11-25-Pico-Ocejon": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-25-Pico-Ocejon.gpx",
       "cat": hiking_cat
     },
+    // 2013
     "2013-01-25-Lunada-con-Raquetas": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-01-25-Lunada-con-Raquetas.gpx",
       "cat": snowhiking_cat
@@ -57,7 +61,7 @@ var routes_dict = {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-17-Ponton-Oliva-Carcavas.gpx",
       "cat": hiking_cat
     },
-// 2014
+    // 2014
     "2014-02-22-las-dos-Machotas": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-02-22-las-dos-Machotas.gpx",
       "cat": hiking_cat
@@ -86,12 +90,12 @@ var routes_dict = {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-15-Valle-medio-del-Arlanza.gpx",
       "cat": hiking_cat
     },
-// 2015
+    // 2015
     "2015-10-24-Navaluenga": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-10-24-Navaluenga.gpx",
       "cat": hiking_cat
     },
-// 2016
+    // 2016
     "2016-05-14-Laguna-Negra-Urbion": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Laguna-Negra-Urbion.gpx",
       "cat": hiking_cat
@@ -112,12 +116,12 @@ var routes_dict = {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-10-09-Puentes-Medievales-Lozoya.gpx",
       "cat": hiking_cat
     },
-// 2017
+    // 2017
     "2017-10-07-Cascada-del-Purgatorio": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2017-10-07-Cascada-del-Purgatorio.gpx",
       "cat": hiking_cat
     },
-// 2018
+    // 2018
     "2018-03-10-Rio-Dulce": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-03-10-Rio-Dulce.gpx",
       "cat": hiking_cat
@@ -182,7 +186,7 @@ var routes_dict = {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-09-Romeria-a-Redonda.gpx",
       "cat": hiking_cat
     },
-// 2019
+    // 2019
     "2019-01-13-La-Jarosa": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
       "cat": hiking_cat
