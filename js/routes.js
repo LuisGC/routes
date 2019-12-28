@@ -25,6 +25,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-2.gpx",
     "cat": hiking_cat
   },
+  "2012-11-24-Hayedo-de-Tejera-Negra-3": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-3.gpx",
+    "cat": biking_cat
+  },
   "2012-11-25-Pico-Ocejon": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-25-Pico-Ocejon.gpx",
     "cat": hiking_cat
