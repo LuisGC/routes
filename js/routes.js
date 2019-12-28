@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2013-06-15-Siete-Picos": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-06-15-Siete-Picos.gpx",
+      "cat": hiking_cat
+    },
     "2013-06-29-Subida-nocturna-Peñalara": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-06-29-Subida-nocturna-Peñalara.gpx",
       "cat": hiking_cat
