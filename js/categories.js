@@ -47,3 +47,8 @@ var canyoing_cat = {
     "color": "blue",
     "icon": "walk"
 };
+
+var snow-hiking_cat = {
+    "color": "white",
+    "icon": "walk"
+};
