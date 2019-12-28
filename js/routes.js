@@ -7,7 +7,7 @@ var routes_dict = {
 // 2013
     "2013-08-15-Bajada-barranco-Peonera-Inferior": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/gpx/spain/2013-08-15-Bajada-barranco-Peonera-Inferior.gpx",
-      "cat": canyoing_cat
+      "cat": hiking_cat
     },
     "2013-08-15-Barranco-Peonera-Inferior": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Barranco-Peonera-Inferior.gpx",
