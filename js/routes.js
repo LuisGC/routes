@@ -9,6 +9,11 @@ var routes_dict = {
         "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2016-05-17_Via_Verde_Ojos_Negros.gpx",
         "cat": biking_cat
     },
+// 2017
+    "2017-10-07-Cascada-del-Purgatorio": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2017-10-07-Cascada-del-Purgatorio.gpx",
+        "cat": hiking_cat
+    },
 // 2018
     "2018-03-10-Rio-Dulce": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-03-10-Rio-Dulce.gpx",
