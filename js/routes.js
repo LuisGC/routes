@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-09-08-Romeria-a-Mamblas": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-08-Romeria-a-Mamblas.gpx",
+        "cat": hiking_cat
+    },
     "2018-09-09-Romeria-a-Redonda": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-09-Romeria-a-Redonda.gpx",
         "cat": hiking_cat
