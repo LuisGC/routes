@@ -9,6 +9,11 @@ var routes_dict = {
         "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2016-05-17_Via_Verde_Ojos_Negros.gpx",
         "cat": biking_cat
     },
+// 2018
+    "2018-09-09-Romeria-a-Redonda": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-09-Romeria-a-Redonda.gpx",
+        "cat": hiking_cat
+    },
 // 2019
     "2019-01-13-La-Jarosa": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
