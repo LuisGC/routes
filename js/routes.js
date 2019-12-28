@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-05-03-Rogie-Falls": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-03-Rogie-Falls.gpx",
+        "cat": hiking_cat
+    },
     "2018-05-04-Loch-an-Eilein": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-04-Loch-an-Eilein.gpx",
         "cat": hiking_cat
