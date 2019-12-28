@@ -48,7 +48,7 @@ var canyoing_cat = {
     "icon": "walk"
 };
 
-var snow-hiking_cat = {
+var snowhiking_cat = {
     "color": "white",
     "icon": "walk"
 };

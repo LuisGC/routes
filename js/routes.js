@@ -7,7 +7,7 @@ var routes_dict = {
 // 2013
     "2013-02-23-Raquetas-Loma-Noruego-Valdemartin": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-02-23-Raquetas-Loma-Noruego-Valdemartin.gpx",
-      "cat": snow-hiking_cat
+      "cat": snowhiking_cat
     },
     "2013-06-15-Siete-Picos": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-06-15-Siete-Picos.gpx",
