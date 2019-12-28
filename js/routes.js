@@ -16,6 +16,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-07-10-Covarrubias-Puentedura.gpx",
     "cat": biking_cat
   },
+  "2011-08-21-Leon-Villanueva-del-Arbol": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-08-21-Leon-Villanueva-del-Arbol.gpx",
+    "cat": biking_cat
+  },
   // 2012
   "2012-02-18-La-Pedriza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-02-18-La-Pedriza.gpx",
