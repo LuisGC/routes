@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2013-08-31-Rascafria-RV5-RV1": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-31-Rascafria-RV5-RV1.gpx",
+      "cat": hiking_cat
+    },
     "2013-11-17-Ponton-Oliva-Carcavas": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-17-Ponton-Oliva-Carcavas.gpx",
       "cat": hiking_cat
