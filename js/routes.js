@@ -4,6 +4,10 @@ var routes_dict = {
         "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
         "cat": biking_cat
     },
+    "2012-11-03-Navacerrada-Siete-Picos": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-03-Navacerrada-Siete-Picos.gpx",
+      "cat": hiking_cat
+    },
     "2012-11-24-Hayedo-de-Tejera-Negra-2": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-2.gpx",
       "cat": hiking_cat
