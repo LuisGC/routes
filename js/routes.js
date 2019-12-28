@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2012-11-25-Pico-Ocejon": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-25-Pico-Ocejon.gpx",
+      "cat": hiking_cat
+    },
     "2013-01-25-Lunada-con-Raquetas": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-01-25-Lunada-con-Raquetas.gpx",
       "cat": snowhiking_cat
