@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-05-01-Lost-Valley": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-01-Lost-Valley.gpx",
+        "cat": hiking_cat
+    },
     "2018-05-02-Old-Man-of-Storr": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-02-Old-Man-of-Storr.gpx",
         "cat": hiking_cat
