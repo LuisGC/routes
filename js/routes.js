@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2013-08-15-Barranco-Peonera-Inferior": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Barranco-Peonera-Inferior.gpx",
+      "cat": canyoing_cat
+    },
     "2013-08-17-Baqueira-Beret-Vielha": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-17-Baqueira-Beret-Vielha.gpx",
       "cat": hiking_cat

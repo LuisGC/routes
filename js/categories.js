@@ -42,3 +42,8 @@ var motorbike_cat = {
     "color": "blue",
     "icon": "car"
 };
+
+var canyoing_cat = {
+    "color": "blue",
+    "icon": "walk"
+};
