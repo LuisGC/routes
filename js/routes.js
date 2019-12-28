@@ -216,6 +216,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-06-16-Ruta-VIII-Vinos-con-Historia.gpx",
     "cat": hiking_cat
   },
+  "2019-09-07-Marismas-El-Rompido": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-09-07-Marismas-El-Rompido.gpx",
+    "cat": biking_cat
+  },
   "2019-09-16-Jiankou-to-Mutianyu-Great-Wall-Hike": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/china/2019-09-16-Jiankou-to-Mutianyu-Great-Wall-Hike.gpx",
     "cat": hiking_cat
