@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2013-07-06-GR10-Canencia-Morcuera": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-06-GR10-Canencia-Morcuera.gpx",
+      "cat": hiking_cat
+    },
     "2013-08-15-Bajada-barranco-Peonera-Inferior": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Bajada-barranco-Peonera-Inferior.gpx",
       "cat": hiking_cat
