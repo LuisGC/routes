@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-05-02-Neist-Point": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-02-Neist-Point.gpx",
+        "cat": hiking_cat
+    },
     "2018-05-03-Corrieshalloch-Gorge": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-03-Corrieshalloch-Gorge.gpx",
         "cat": hiking_cat
