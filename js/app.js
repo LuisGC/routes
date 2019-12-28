@@ -23,7 +23,7 @@ $(document).ready(function() {
     for (var id in routes_dict) {
         var customLink = "";
         if (routes_dict[id].link){
-            customLink = "<a href='" + routes_dict[id].link + "' target='new'>Ver más</a> <i class='icon ion-md-open'>";
+            customLink = "<a href='" + routes_dict[id].link + "' target='new'>Details</a> <i class='icon ion-md-open'>";
         }
         customIcon = "md-" + routes_dict[id].cat.icon;
         customColor = routes_dict[id].cat.color;
