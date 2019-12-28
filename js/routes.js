@@ -15,7 +15,7 @@ var routes_dict = {
         "cat": hiking_cat
     },
     "Fuenfria-desde-cercedilla": {
-        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-11-30-Fuenfría-desde-Cercedilla.gpx",
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-11-30-Fuenfria-desde-Cercedilla.gpx",
         "cat": hiking_cat
     }
 };
