@@ -14,6 +14,11 @@ var routes_dict = {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-06-16-Ruta-VIII-Vinos-con-Historia.gpx",
         "cat": hiking_cat
     },
+    "Jiankou-to-Mutianyu-Great-Wall-Hike": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/china/2019-06-16-Jiankou-to-Mutianyu-Great-Wall-Hike.gpx",
+        "cat": hiking_cat
+    }
+    },
     "Fuenfria-desde-cercedilla": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-11-30-Fuenfria-desde-Cercedilla.gpx",
         "cat": hiking_cat
