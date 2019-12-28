@@ -6,6 +6,10 @@ var routes_dict = {
     },
 // 2015
 // 2016
+    "2016-05-14-Laguna-Negra-Urbion": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Laguna-Negra-Urbion.gpx",
+      "cat": hiking_cat
+    },
     "2016-05-14-Lagunas-de-Neila": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Lagunas-de-Neila.gpx",
       "cat": hiking_cat
