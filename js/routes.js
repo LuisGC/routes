@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2014
+    "2014-02-22-las-dos-Machotas": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-02-22-las-dos-Machotas.gpx",
+      "cat": hiking_cat
+    },
     "2014-03-14-Monasterio-de-Piedra": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-03-14-Monasterio-de-Piedra.gpx",
       "cat": hiking_cat
