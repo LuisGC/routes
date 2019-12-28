@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-04-30-Puck's-Glen": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-04-30-Puck's-Glen.gpx",
+        "cat": hiking_cat
+    },
     "2018-05-01-Eagle's-Eyrie-Benderloch": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-01-Eagle's-Eyrie-Benderloch.gpx",
         "cat": hiking_cat
