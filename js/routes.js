@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-05-02-Quiraing": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-02-Quiraing.gpx",
+        "cat": hiking_cat
+    },
     "2018-05-02-Fairy-Glen": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-02-Fairy-Glen.gpx",
         "cat": hiking_cat
