@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2013
+    "2013-02-10-Raquetas-Penalara": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-02-10-Raquetas-Penalara.gpx",
+      "cat": snowhiking_cat
+    },
     "2013-02-23-Raquetas-Loma-Noruego-Valdemartin": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-02-23-Raquetas-Loma-Noruego-Valdemartin.gpx",
       "cat": snowhiking_cat
