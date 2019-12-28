@@ -4,6 +4,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-02-19-Lunada-con-raquetas.gpx",
     "cat": snowhiking_cat
   },
+  "2011-02-26-Parque-Juan-Carlos-I": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-02-26-Parque-Juan-Carlos-I.gpx",
+    "cat": biking_cat
+  },
   // 2012
   "2012-02-18-La-Pedriza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-02-18-La-Pedriza.gpx",
