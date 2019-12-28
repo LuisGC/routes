@@ -5,6 +5,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2015
+    "2015-10-24-Navaluenga": {
+      "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-10-24-Navaluenga.gpx",
+      "cat": hiking_cat
+    },
 // 2016
     "2016-05-14-Laguna-Negra-Urbion": {
       "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Laguna-Negra-Urbion.gpx",
