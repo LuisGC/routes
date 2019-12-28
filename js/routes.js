@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2019
+    "2019-01-13-La-Jarosa": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
+        "cat": hiking_cat
+    },
     "2019-03-16-Navarredonda-de-Gredos": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-03-16-Navarredonda-de-Gredos.gpx",
         "cat": hiking_cat
