@@ -211,10 +211,8 @@ var routes_dict = {
         "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/hiking/2019-08-17_Nacedero-del-Larraun.gpx",
         "cat": hiking_cat
      },
-    // HIKING
-    // BIKING
-    "loira": {
-        "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
+    "Loire-a-Velo": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09_Loire-a-Velo.gpx",
         "cat": biking_cat
     },
     "boadilla": {
