@@ -6,6 +6,10 @@ var routes_dict = {
     },
 // 2015
 // 2016
+    "2016-05-14-Lagunas-de-Neila": {
+      "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/spain/2016-05-14-Lagunas-de-Neila.gpx",
+      "cat": biking_cat
+    },
     "2016-05-15-Canon-Rio-Lobos": {
       "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/spain/2016-05-15-Canon-Rio-Lobos.gpx",
       "cat": biking_cat
