@@ -212,21 +212,7 @@ var routes_dict = {
         "cat": hiking_cat
      },
     "Loire-a-Velo": {
-        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09_Loire-a-Velo.gpx",
-        "cat": biking_cat
-    },
-    "boadilla": {
-        "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2015-09-27_Boadilla.gpx",
-        "cat": biking_cat
-    },
-    "fiesta-bici": {
-        "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2015-10-04_Fiesta-de-la-bici.gpx",
-        "link": "https://dendarii.es/2015/10/fiesta-de-la-bici-2015/",
-        "cat": biking_cat
-    },
-    "vv-negrin": {
-        "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2016-03-25_Via-Verde-Negrin.gpx",
-        "link": "https://dendarii.es/2016/03/semana-santa-2016-chinchon-via-verde-negrin-y-colmenar-de-oreja/",
+        "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
         "cat": biking_cat
     },
     "vv-ojos-negros": {
