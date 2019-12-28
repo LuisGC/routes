@@ -128,8 +128,6 @@
       <trkpt lat="40.825743" lon="-3.95749">
         <time>2013-02-10T08:16:53Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.825777" lon="-3.957396">
         <ele>1946.2</ele>
         <time>2013-02-10T08:16:55Z</time>
@@ -152,8 +150,7 @@
       <trkpt lat="40.826022" lon="-3.957098">
         <time>2013-02-10T08:19:11Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
+
       <trkpt lat="40.826093" lon="-3.957261">
         <ele>1958.2</ele>
         <time>2013-02-10T08:19:27Z</time>
@@ -184,8 +181,6 @@
       <trkpt lat="40.826656" lon="-3.95694">
         <time>2013-02-10T08:26:52Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.826738" lon="-3.956748">
         <ele>1969.4</ele>
         <time>2013-02-10T08:27:08Z</time>
@@ -200,8 +195,6 @@
       <trkpt lat="40.826738" lon="-3.956748">
         <time>2013-02-10T08:27:13Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.826787" lon="-3.956623">
         <ele>1974.6</ele>
         <time>2013-02-10T08:27:21Z</time>
@@ -224,8 +217,6 @@
       <trkpt lat="40.827074" lon="-3.95618">
         <time>2013-02-10T08:28:25Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827136" lon="-3.955907">
         <ele>1970.7</ele>
         <time>2013-02-10T08:29:18Z</time>
@@ -244,8 +235,6 @@
       <trkpt lat="40.827224" lon="-3.95572">
         <time>2013-02-10T08:29:37Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827294" lon="-3.955633">
         <ele>1971.2</ele>
         <time>2013-02-10T08:29:41Z</time>
@@ -260,8 +249,6 @@
       <trkpt lat="40.827334" lon="-3.955569">
         <time>2013-02-10T08:29:54Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827546" lon="-3.955287">
         <ele>1971.1</ele>
         <time>2013-02-10T08:30:35Z</time>
@@ -284,8 +271,6 @@
       <trkpt lat="40.82768" lon="-3.954989">
         <time>2013-02-10T08:31:07Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827959" lon="-3.954702">
         <ele>1975.6</ele>
         <time>2013-02-10T08:32:11Z</time>
@@ -308,8 +293,6 @@
       <trkpt lat="40.828355" lon="-3.954301">
         <time>2013-02-10T08:33:18Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.828432" lon="-3.954235">
         <ele>1974.4</ele>
         <time>2013-02-10T08:33:24Z</time>
@@ -328,8 +311,6 @@
       <trkpt lat="40.828758" lon="-3.954105">
         <time>2013-02-10T08:34:22Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.82905" lon="-3.954079">
         <ele>1976.1</ele>
         <time>2013-02-10T08:35:07Z</time>
@@ -344,8 +325,6 @@
       <trkpt lat="40.829072" lon="-3.954091">
         <time>2013-02-10T08:35:17Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.829143" lon="-3.954161">
         <ele>1979.5</ele>
         <time>2013-02-10T08:35:27Z</time>
@@ -360,8 +339,6 @@
       <trkpt lat="40.829213" lon="-3.954196">
         <time>2013-02-10T08:35:43Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.829264" lon="-3.954297">
         <ele>1976.9</ele>
         <time>2013-02-10T08:35:48Z</time>
@@ -376,8 +353,6 @@
       <trkpt lat="40.829264" lon="-3.954297">
         <time>2013-02-10T08:35:55Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.829777" lon="-3.954382">
         <ele>1972.5</ele>
         <time>2013-02-10T08:37:25Z</time>
@@ -392,8 +367,6 @@
       <trkpt lat="40.829858" lon="-3.954413">
         <time>2013-02-10T08:37:38Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.829949" lon="-3.954461">
         <ele>1972.2</ele>
         <time>2013-02-10T08:37:47Z</time>
@@ -412,8 +385,6 @@
       <trkpt lat="40.830135" lon="-3.954315">
         <time>2013-02-10T08:38:57Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.830135" lon="-3.954315">
         <time>2013-02-10T08:40:17Z</time>
       </trkpt>
@@ -432,8 +403,6 @@
       <trkpt lat="40.830664" lon="-3.954376">
         <time>2013-02-10T08:40:41Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.830664" lon="-3.954376">
         <time>2013-02-10T08:40:46Z</time>
       </trkpt>
@@ -464,8 +433,6 @@
       <trkpt lat="40.830963" lon="-3.953932">
         <time>2013-02-10T08:44:22Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.830963" lon="-3.953932">
         <time>2013-02-10T08:44:49Z</time>
       </trkpt>
@@ -492,8 +459,6 @@
       <trkpt lat="40.831611" lon="-3.952808">
         <time>2013-02-10T08:47:59Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.831611" lon="-3.952808">
         <time>2013-02-10T08:48:07Z</time>
       </trkpt>
@@ -512,8 +477,6 @@
       <trkpt lat="40.831986" lon="-3.952443">
         <time>2013-02-10T08:49:04Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.831986" lon="-3.952443">
         <time>2013-02-10T08:49:39Z</time>
       </trkpt>
@@ -532,8 +495,6 @@
       <trkpt lat="40.832389" lon="-3.95214">
         <time>2013-02-10T08:50:18Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.832389" lon="-3.95214">
         <time>2013-02-10T08:51:06Z</time>
       </trkpt>
@@ -548,8 +509,6 @@
       <trkpt lat="40.83262" lon="-3.951925">
         <time>2013-02-10T08:51:16Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.83262" lon="-3.951925">
         <time>2013-02-10T08:51:22Z</time>
       </trkpt>
@@ -564,8 +523,6 @@
       <trkpt lat="40.832596" lon="-3.951801">
         <time>2013-02-10T08:51:30Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.832596" lon="-3.951801">
         <time>2013-02-10T08:51:45Z</time>
       </trkpt>
@@ -600,8 +557,6 @@
       <trkpt lat="40.833459" lon="-3.951099">
         <time>2013-02-10T08:54:23Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.833459" lon="-3.951099">
         <time>2013-02-10T08:54:28Z</time>
       </trkpt>
@@ -620,8 +575,6 @@
       <trkpt lat="40.833686" lon="-3.950933">
         <time>2013-02-10T08:54:58Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.833686" lon="-3.950933">
         <time>2013-02-10T08:55:49Z</time>
       </trkpt>
@@ -636,8 +589,6 @@
       <trkpt lat="40.834009" lon="-3.950598">
         <time>2013-02-10T08:56:03Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.834009" lon="-3.950598">
         <time>2013-02-10T08:56:06Z</time>
       </trkpt>
@@ -652,8 +603,6 @@
       <trkpt lat="40.83409" lon="-3.950619">
         <time>2013-02-10T08:56:13Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.83409" lon="-3.950619">
         <time>2013-02-10T08:56:35Z</time>
       </trkpt>
@@ -668,8 +617,6 @@
       <trkpt lat="40.834261" lon="-3.950444">
         <time>2013-02-10T08:56:46Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.834261" lon="-3.950444">
         <time>2013-02-10T08:58:25Z</time>
       </trkpt>
@@ -692,8 +639,6 @@
       <trkpt lat="40.834757" lon="-3.950222">
         <time>2013-02-10T08:58:52Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.834757" lon="-3.950222">
         <time>2013-02-10T08:59:09Z</time>
       </trkpt>
@@ -708,8 +653,6 @@
       <trkpt lat="40.834844" lon="-3.950254">
         <time>2013-02-10T08:59:15Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.834844" lon="-3.950254">
         <time>2013-02-10T09:00:01Z</time>
       </trkpt>
@@ -724,8 +667,6 @@
       <trkpt lat="40.835113" lon="-3.950222">
         <time>2013-02-10T09:00:10Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.835113" lon="-3.950222">
         <time>2013-02-10T09:01:07Z</time>
       </trkpt>
@@ -748,8 +689,6 @@
       <trkpt lat="40.835804" lon="-3.950126">
         <time>2013-02-10T09:02:20Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.835804" lon="-3.950126">
         <time>2013-02-10T09:02:27Z</time>
       </trkpt>
@@ -764,8 +703,6 @@
       <trkpt lat="40.835949" lon="-3.950089">
         <time>2013-02-10T09:02:41Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.835949" lon="-3.950089">
         <time>2013-02-10T09:03:29Z</time>
       </trkpt>
@@ -792,8 +729,6 @@
       <trkpt lat="40.836547" lon="-3.950518">
         <time>2013-02-10T09:04:21Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.836547" lon="-3.950518">
         <time>2013-02-10T09:05:07Z</time>
       </trkpt>
@@ -812,8 +747,6 @@
       <trkpt lat="40.836749" lon="-3.950904">
         <time>2013-02-10T09:05:31Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.836749" lon="-3.950904">
         <time>2013-02-10T09:05:39Z</time>
       </trkpt>
@@ -848,8 +781,6 @@
       <trkpt lat="40.837209" lon="-3.951824">
         <time>2013-02-10T09:07:08Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.837209" lon="-3.951824">
         <time>2013-02-10T09:07:42Z</time>
       </trkpt>
@@ -864,8 +795,6 @@
       <trkpt lat="40.836956" lon="-3.952169">
         <time>2013-02-10T09:07:51Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.836956" lon="-3.952169">
         <time>2013-02-10T09:08:45Z</time>
       </trkpt>
@@ -884,8 +813,6 @@
       <trkpt lat="40.837164" lon="-3.952514">
         <time>2013-02-10T09:16:33Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.837164" lon="-3.952514">
         <time>2013-02-10T09:16:46Z</time>
       </trkpt>
@@ -900,8 +827,6 @@
       <trkpt lat="40.83725" lon="-3.952789">
         <time>2013-02-10T09:17:01Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.83725" lon="-3.952789">
         <time>2013-02-10T09:17:23Z</time>
       </trkpt>
@@ -916,8 +841,6 @@
       <trkpt lat="40.837333" lon="-3.95304">
         <time>2013-02-10T09:17:30Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.837333" lon="-3.95304">
         <time>2013-02-10T09:17:38Z</time>
       </trkpt>
@@ -940,8 +863,6 @@
       <trkpt lat="40.837512" lon="-3.95359">
         <time>2013-02-10T09:18:24Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.837512" lon="-3.95359">
         <time>2013-02-10T09:19:10Z</time>
       </trkpt>
@@ -968,8 +889,6 @@
       <trkpt lat="40.837873" lon="-3.954397">
         <time>2013-02-10T09:20:03Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.837873" lon="-3.954397">
         <time>2013-02-10T09:21:45Z</time>
       </trkpt>
@@ -984,8 +903,6 @@
       <trkpt lat="40.838115" lon="-3.95465">
         <time>2013-02-10T09:21:52Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.838115" lon="-3.95465">
         <time>2013-02-10T09:22:20Z</time>
       </trkpt>
@@ -1000,8 +917,6 @@
       <trkpt lat="40.838279" lon="-3.954859">
         <time>2013-02-10T09:22:27Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.838279" lon="-3.954859">
         <time>2013-02-10T09:22:45Z</time>
       </trkpt>
@@ -1024,8 +939,6 @@
       <trkpt lat="40.838671" lon="-3.955685">
         <time>2013-02-10T09:24:13Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.838671" lon="-3.955685">
         <time>2013-02-10T09:25:02Z</time>
       </trkpt>
@@ -1044,8 +957,6 @@
       <trkpt lat="40.838904" lon="-3.956071">
         <time>2013-02-10T09:25:23Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.838904" lon="-3.956071">
         <time>2013-02-10T09:25:30Z</time>
       </trkpt>
@@ -1064,8 +975,6 @@
       <trkpt lat="40.839239" lon="-3.956338">
         <time>2013-02-10T09:26:50Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.839239" lon="-3.956338">
         <time>2013-02-10T09:27:43Z</time>
       </trkpt>
@@ -1080,8 +989,6 @@
       <trkpt lat="40.839547" lon="-3.956426">
         <time>2013-02-10T09:27:51Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.839547" lon="-3.956426">
         <time>2013-02-10T09:28:46Z</time>
       </trkpt>
@@ -1096,8 +1003,6 @@
       <trkpt lat="40.839913" lon="-3.956636">
         <time>2013-02-10T09:29:22Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.839913" lon="-3.956636">
         <time>2013-02-10T09:29:49Z</time>
       </trkpt>
@@ -1112,8 +1017,6 @@
       <trkpt lat="40.840083" lon="-3.956776">
         <time>2013-02-10T09:30:00Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.840083" lon="-3.956776">
         <time>2013-02-10T09:32:34Z</time>
       </trkpt>
@@ -1156,8 +1059,6 @@
       <trkpt lat="40.840438" lon="-3.958471">
         <time>2013-02-10T09:35:27Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.840438" lon="-3.958471">
         <time>2013-02-10T09:35:46Z</time>
       </trkpt>
@@ -1172,8 +1073,6 @@
       <trkpt lat="40.840482" lon="-3.958211">
         <time>2013-02-10T09:35:52Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.840482" lon="-3.958211">
         <time>2013-02-10T09:36:27Z</time>
       </trkpt>
@@ -1188,8 +1087,6 @@
       <trkpt lat="40.840345" lon="-3.958596">
         <time>2013-02-10T09:36:41Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.840345" lon="-3.958596">
         <time>2013-02-10T09:36:50Z</time>
       </trkpt>
@@ -1220,8 +1117,6 @@
       <trkpt lat="40.839123" lon="-3.958628">
         <time>2013-02-10T09:42:57Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.839123" lon="-3.958628">
         <time>2013-02-10T09:43:04Z</time>
       </trkpt>
@@ -1236,8 +1131,6 @@
       <trkpt lat="40.83898" lon="-3.958639">
         <time>2013-02-10T09:43:22Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.83898" lon="-3.958639">
         <time>2013-02-10T09:44:51Z</time>
       </trkpt>
@@ -1260,8 +1153,6 @@
       <trkpt lat="40.838554" lon="-3.958879">
         <time>2013-02-10T09:47:24Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.838554" lon="-3.958879">
         <time>2013-02-10T09:48:07Z</time>
       </trkpt>
@@ -1320,8 +1211,6 @@
       <trkpt lat="40.83703" lon="-3.959405">
         <time>2013-02-10T10:01:58Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.83703" lon="-3.959405">
         <time>2013-02-10T10:02:12Z</time>
       </trkpt>
@@ -1340,8 +1229,6 @@
       <trkpt lat="40.836697" lon="-3.959523">
         <time>2013-02-10T10:02:41Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.836697" lon="-3.959523">
         <time>2013-02-10T10:02:51Z</time>
       </trkpt>
@@ -1436,8 +1323,6 @@
       <trkpt lat="40.832169" lon="-3.960192">
         <time>2013-02-10T10:17:58Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.832169" lon="-3.960192">
         <time>2013-02-10T10:18:43Z</time>
       </trkpt>
@@ -1456,8 +1341,6 @@
       <trkpt lat="40.831583" lon="-3.95982">
         <time>2013-02-10T10:19:51Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.831583" lon="-3.95982">
         <time>2013-02-10T10:27:22Z</time>
       </trkpt>
@@ -1500,8 +1383,6 @@
       <trkpt lat="40.829836" lon="-3.959692">
         <time>2013-02-10T10:34:15Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.829836" lon="-3.959692">
         <time>2013-02-10T10:34:28Z</time>
       </trkpt>
@@ -1528,8 +1409,6 @@
       <trkpt lat="40.828972" lon="-3.960094">
         <time>2013-02-10T10:37:16Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.828972" lon="-3.960094">
         <time>2013-02-10T10:37:24Z</time>
       </trkpt>
@@ -1548,8 +1427,6 @@
       <trkpt lat="40.828462" lon="-3.960222">
         <time>2013-02-10T10:38:01Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.828462" lon="-3.960222">
         <time>2013-02-10T10:38:07Z</time>
       </trkpt>
@@ -1568,8 +1445,6 @@
       <trkpt lat="40.828063" lon="-3.960275">
         <time>2013-02-10T10:38:36Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.828063" lon="-3.960275">
         <time>2013-02-10T10:39:11Z</time>
       </trkpt>
@@ -1588,8 +1463,6 @@
       <trkpt lat="40.827772" lon="-3.960193">
         <time>2013-02-10T10:39:27Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827772" lon="-3.960193">
         <time>2013-02-10T10:39:37Z</time>
       </trkpt>
@@ -1612,8 +1485,6 @@
       <trkpt lat="40.827359" lon="-3.960233">
         <time>2013-02-10T11:02:39Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.827359" lon="-3.960233">
         <time>2013-02-10T11:02:46Z</time>
       </trkpt>
@@ -1644,8 +1515,6 @@
       <trkpt lat="40.826893" lon="-3.961376">
         <time>2013-02-10T11:06:34Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.826893" lon="-3.961376">
         <time>2013-02-10T11:09:26Z</time>
       </trkpt>
@@ -1688,8 +1557,6 @@
       <trkpt lat="40.825185" lon="-3.962029">
         <time>2013-02-10T11:15:11Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.825185" lon="-3.962029">
         <time>2013-02-10T11:15:23Z</time>
       </trkpt>
@@ -1716,8 +1583,6 @@
       <trkpt lat="40.82456" lon="-3.961848">
         <time>2013-02-10T11:19:31Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.82456" lon="-3.961848">
         <time>2013-02-10T11:20:51Z</time>
       </trkpt>
@@ -1800,8 +1665,6 @@
       <trkpt lat="40.823112" lon="-3.959016">
         <time>2013-02-10T11:27:02Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg>
       <trkpt lat="40.823112" lon="-3.959016">
         <time>2013-02-10T11:34:15Z</time>
       </trkpt>
