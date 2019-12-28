@@ -12,7 +12,7 @@ var routes_dict = {
 // 2019
     "viii-vinos-con-historia": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-06-16-Ruta-VIII-Vinos-con-Historia.gpx",
-        "cat": biking_cat
+        "cat": hiking_cat
     }
 
 };
