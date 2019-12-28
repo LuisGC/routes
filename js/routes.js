@@ -10,6 +10,10 @@ var routes_dict = {
         "cat": biking_cat
     },
 // 2018
+    "2018-05-04-Falls-of-Bruar": {
+        "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/scotland/2018-05-04-Falls-of-Bruar.gpx",
+        "cat": hiking_cat
+    },
     "2018-08-14-Fervenza-do-Toxa": {
         "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-08-14-Fervenza-do-Toxa.gpx",
         "cat": hiking_cat
