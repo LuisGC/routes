@@ -130,6 +130,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-20-Villanueva-Canada.gpx",
     "cat": biking_cat
   },
+  "2013-07-31-Sanchinarro": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-31-Sanchinarro.gpx",
+    "cat": biking_cat
+  },
   "2013-08-15-Bajada-barranco-Peonera-Inferior": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Bajada-barranco-Peonera-Inferior.gpx",
     "cat": hiking_cat
