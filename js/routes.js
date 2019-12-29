@@ -81,6 +81,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-03-Navacerrada-Siete-Picos.gpx",
     "cat": hiking_cat
   },
+  "2012-11-11-Carrera-Aficiones-2012": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-11-Carrera-Aficiones-2012.gpx",
+    "cat": running_cat
+  },
   "2012-11-24-Hayedo-de-Tejera-Negra-1": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-1.gpx",
     "cat": biking_cat

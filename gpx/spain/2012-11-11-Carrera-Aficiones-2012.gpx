@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Endomondo.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <name>Carrera de las Aficiones</name>
+    <time>2019-12-29T00:41:41Z</time>
+  </metadata>
+  <trk>
+    <name>Carrera de las Aficiones</name>
+    <cmt>Distancia real: 10 km, tiempo real 0:57:33</cmt>
+    <src>http://www.endomondo.com/</src>
+    <link href="https://www.endomondo.com/users/764140/workouts/106580056">
+      <text>Carrera de las Aficiones</text>
+    </link>
+    <type>RUNNING</type>
+    <trkseg>
+      <trkpt lat="40.458836" lon="-3.690085">
+        <time>2012-11-11T08:01:48Z</time>
+      </trkpt>
+      <trkpt lat="40.458836" lon="-3.690085">
+        <ele>805.1</ele>
+        <time>2012-11-11T08:07:28Z</time>
+      </trkpt>
+      <trkpt lat="40.458836" lon="-3.690085">
+        <ele>805.1</ele>
+        <time>2012-11-11T08:10:29Z</time>
+      </trkpt>
+      <trkpt lat="40.458836" lon="-3.690085">
+        <ele>805.1</ele>
+        <time>2012-11-11T08:12:34Z</time>
+      </trkpt>
+      <trkpt lat="40.445513" lon="-3.691385">
+        <ele>759.4</ele>
+        <time>2012-11-11T08:15:28Z</time>
+      </trkpt>
+      <trkpt lat="40.437283" lon="-3.690381">
+        <ele>730.3</ele>
+        <time>2012-11-11T08:20:32Z</time>
+      </trkpt>
+      <trkpt lat="40.429871" lon="-3.689183">
+        <ele>700.1</ele>
+        <time>2012-11-11T08:25:28Z</time>
+      </trkpt>
+      <trkpt lat="40.425259" lon="-3.690472">
+        <ele>765.9</ele>
+        <time>2012-11-11T08:28:30Z</time>
+      </trkpt>
+      <trkpt lat="40.416498" lon="-3.694396">
+        <ele>667.9</ele>
+        <time>2012-11-11T08:34:30Z</time>
+      </trkpt>
+      <trkpt lat="40.416397" lon="-3.705298">
+        <ele>701.5</ele>
+        <time>2012-11-11T08:40:55Z</time>
+      </trkpt>
+      <trkpt lat="40.414413" lon="-3.713609">
+        <ele>695.7</ele>
+        <time>2012-11-11T08:45:31Z</time>
+      </trkpt>
+      <trkpt lat="40.406264" lon="-3.713687">
+        <ele>680.9</ele>
+        <time>2012-11-11T08:51:54Z</time>
+      </trkpt>
+      <trkpt lat="40.40103" lon="-3.71497">
+        <ele>648.6</ele>
+        <time>2012-11-11T08:55:28Z</time>
+      </trkpt>
+      <trkpt lat="40.40103" lon="-3.71497">
+        <time>2012-11-11T08:59:36Z</time>
+      </trkpt>
+      <trkpt lat="40.40103" lon="-3.71497">
+        <time>2012-11-11T08:59:38Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
