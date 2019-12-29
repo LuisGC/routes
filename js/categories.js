@@ -14,7 +14,7 @@ var biking_cat = {
 };
 
 var trip_cat = {
-    "color": "blue",
+    "color": "purple",
     "icon": "walk"
 };
 
