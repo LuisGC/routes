@@ -204,6 +204,10 @@ var routes_dict = {
     "cat": biking_cat
   },
   // 2015
+  "2015-07-19-Parque-Felipe-VI": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-07-19-Parque-Felipe-VI.gpx",
+    "cat": biking_cat
+  },
   "2015-10-24-Navaluenga": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-10-24-Navaluenga.gpx",
     "cat": hiking_cat
