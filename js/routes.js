@@ -182,6 +182,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-17-Ponton-Oliva-Carcavas.gpx",
     "cat": hiking_cat
   },
+  "2013-12-14-Carrera-Papa-Noel-2013": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-12-14-Carrera-Papa-Noel-2013.gpx",
+    "cat": running_cat
+  },
   // 2014
   "2014-02-22-las-dos-Machotas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-02-22-las-dos-Machotas.gpx",
