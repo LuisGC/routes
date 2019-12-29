@@ -150,6 +150,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-17-Artiga-de-Lin.gpx",
     "cat": hiking_cat
   },
+  "2013-08-22-Canoas-Pantano-San-Juan": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-22-Canoas-Pantano-San-Juan.gpx",
+    "cat": canoeing_cat
+  },
   "2013-08-31-Rascafria-RV5-RV1": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-31-Rascafria-RV5-RV1.gpx",
     "cat": hiking_cat

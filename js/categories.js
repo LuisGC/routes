@@ -28,6 +28,11 @@ var boat_cat = {
     "icon": "boat"
 };
 
+var canoeing_cat = {
+    "color": "purple",
+    "icon": "boat"
+};
+
 var bus_cat = {
     "color": "red",
     "icon": "bus"
