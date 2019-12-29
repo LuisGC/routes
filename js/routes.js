@@ -215,6 +215,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-11-Via-Verde-Jara.gpx",
     "cat": biking_cat
   },
+  "2014-06-15-Madrid-Norte-contra-Sur": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-15-Madrid-Norte-contra-Sur.gpx",
+    "cat": running_cat
+  },
   "2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
     "cat": biking_cat
