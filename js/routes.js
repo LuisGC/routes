@@ -229,8 +229,20 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-15-Canon-Rio-Lobos.gpx",
     "cat": hiking_cat
   },
-  "2016-05-17-Via-Verde-Ojos-Negros": {
-    "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2016-05-17_Via_Verde_Ojos_Negros.gpx",
+  "2016-05-17-Via-Verde-Ojos-Negros-1": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/cycling/2016-05-17-Via-Verde-Ojos-Negros-1.gpx",
+    "cat": biking_cat
+  },
+  "2016-05-18-Via-Verde-Ojos-Negros-2": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/cycling/2016-05-18-Via-Verde-Ojos-Negros-2.gpx",
+    "cat": biking_cat
+  },
+  "2016-05-19-Via-Verde-Ojos-Negros-3": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/cycling/2016-05-19-Via-Verde-Ojos-Negros-3.gpx",
+    "cat": biking_cat
+  },
+  "2016-05-20-Via-Verde-Ojos-Negros-4": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/cycling/2016-05-20-Via-Verde-Ojos-Negros-4.gpx",
     "cat": biking_cat
   },
   "2016-10-09-Puentes-Medievales-Lozoya": {
