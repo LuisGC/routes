@@ -187,6 +187,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-11-Via-Verde-Jara.gpx",
     "cat": biking_cat
   },
+  "2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
+    "cat": biking_cat
+  },
   "2014-08-15-Valle-medio-del-Arlanza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-15-Valle-medio-del-Arlanza.gpx",
     "cat": hiking_cat
