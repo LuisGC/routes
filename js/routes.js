@@ -25,6 +25,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-02-18-La-Pedriza.gpx",
     "cat": hiking_cat
   },
+  "2012-05-27-Casa-Campo-Madrid-Rio": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-05-27-Casa-Campo-Madrid-Rio.gpx",
+    "cat": biking_cat
+  },
   "2012-07-15-Valle-Rio-Dulce-Siguenza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-07-15-Valle-Rio-Dulce-Siguenza.gpx",
     "cat": biking_cat
