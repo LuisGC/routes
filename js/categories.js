@@ -29,7 +29,7 @@ var boat_cat = {
 };
 
 var canoeing_cat = {
-    "color": "purple",
+    "color": "orange",
     "icon": "boat"
 };
 

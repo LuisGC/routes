@@ -195,6 +195,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
     "cat": biking_cat
   },
+  "2014-07-26-Hoces-Duraton": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-26-Hoces-Duraton.gpx",
+    "cat": canoeing_cat
+  },
   "2014-08-03-Sanchinarro-El-Goloso": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-03-Sanchinarro-El-Goloso.gpx",
     "cat": biking_cat
