@@ -118,6 +118,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-06-Canencia-Morcuera.gpx",
     "cat": hiking_cat
   },
+  "2013-07-13-Sanchinarro-Ribera-del-Loira": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-13-Sanchinarro-Ribera-del-Loira.gpx",
+    "cat": biking_cat
+  },
   "2013-07-20-Villanueva-Canada": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-20-Villanueva-Canada.gpx",
     "cat": biking_cat
