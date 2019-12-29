@@ -183,6 +183,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-03-Alborache.gpx",
     "cat": hiking_cat
   },
+  "2014-05-11-Via-Verde-Jara": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-11-Via-Verde-Jara.gpx",
+    "cat": biking_cat
+  },
   "2014-08-15-Valle-medio-del-Arlanza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-15-Valle-medio-del-Arlanza.gpx",
     "cat": hiking_cat
