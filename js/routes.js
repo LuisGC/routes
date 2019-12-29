@@ -319,6 +319,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-09-Romeria-a-Redonda.gpx",
     "cat": hiking_cat
   },
+  "2018-10-06-Navegando-Altea": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-10-06-Navegando-Altea.gpx",
+    "cat": boat_cat
+  },
   // 2019
   "2019-01-13-La-Jarosa": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
