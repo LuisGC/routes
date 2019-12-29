@@ -69,6 +69,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-12-Casa-de-Campo.gpx",
     "cat": biking_cat
   },
+  "2012-10-14-Carrera-Empresas-2012": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-14-Carrera-Empresas-2012.gpx",
+    "cat": running_cat
+  },
   "2012-10-20-Fuenfria-Mirador-Poetas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-20-Fuenfria-Mirador-Poetas.gpx",
     "cat": hiking_cat

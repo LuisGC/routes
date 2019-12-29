@@ -1,3 +1,8 @@
+var running_cat = {
+    "color": "red",
+    "icon": "walk"
+};
+
 var hiking_cat = {
     "color": "orange",
     "icon": "walk"
@@ -19,7 +24,7 @@ var car_cat = {
 };
 
 var flight_cat = {
-    "color": "blue",
+    "color": "grey",
     "icon": "plane"
 };
 
@@ -29,7 +34,7 @@ var boat_cat = {
 };
 
 var canoeing_cat = {
-    "color": "orange",
+    "color": "blue",
     "icon": "boat"
 };
 
