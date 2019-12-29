@@ -29,6 +29,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-05-27-Casa-Campo-Madrid-Rio.gpx",
     "cat": biking_cat
   },
+  "2012-06-17-Anillo-Verde-Ciclista": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-06-17-Anillo-Verde-Ciclista.gpx",
+    "cat": biking_cat
+  },
   "2012-07-15-Valle-Rio-Dulce-Siguenza": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-07-15-Valle-Rio-Dulce-Siguenza.gpx",
     "cat": biking_cat
