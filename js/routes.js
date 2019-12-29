@@ -49,6 +49,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-15-Casa-de-Campo-Madrid-Rio.gpx",
     "cat": biking_cat
   },
+  "2012-08-18-Circular-Segovia": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-18-Circular-Segovia.gpx",
+    "cat": biking_cat
+  },
   "2012-09_Loire-a-Velo": {
     "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
     "cat": biking_cat
