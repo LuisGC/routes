@@ -220,7 +220,7 @@ var routes_dict = {
     "cat": running_cat
   },
   "2014-06-18-ING-Running-for-UNICEF": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/gpx/spain/2014-06-18-ING-Running-for-UNICEF.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-18-ING-Running-for-UNICEF.gpx",
     "cat": running_cat
   },
   "2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas": {
@@ -244,7 +244,7 @@ var routes_dict = {
     "cat": biking_cat
   },
   "2014-12-14-Carrera-Empresas-2014": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/gpx/spain/2014-12-14-Carrera-Empresas-2014.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-12-14-Carrera-Empresas-2014.gpx",
     "cat": running_cat
   },
   // 2015
