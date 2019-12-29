@@ -170,6 +170,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-31-Rascafria-RV5-RV1.gpx",
     "cat": hiking_cat
   },
+  "2013-10-20-Carrera-Ciencia-2013": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-10-20-Carrera-Ciencia-2013.gpx",
+    "cat": running_cat
+  },
   "2013-11-17-Ponton-Oliva-Carcavas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-17-Ponton-Oliva-Carcavas.gpx",
     "cat": hiking_cat
