@@ -391,5 +391,10 @@ var routes_dict = {
   "2019-11-30-Fuenfria-desde-Cercedilla": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-11-30-Fuenfria-desde-Cercedilla.gpx",
     "cat": hiking_cat
+  },
+  // 2020
+  "2020-01-12-Canto-Cochino-Tolmo-Yelmo-Elefantito-Cinco-Cestos": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-01-12-Canto-Cochino-Tolmo-Yelmo-Elefantito-Cinco-Cestos.gpx",
+    "cat": hiking_cat
   }
 };
