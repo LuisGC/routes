@@ -1,3 +1,8 @@
+var walking_cat = {
+    "color": "grey",
+    "icon": "walk"
+};
+
 var running_cat = {
     "color": "red",
     "icon": "walk"
