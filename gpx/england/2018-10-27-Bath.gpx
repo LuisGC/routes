@@ -4431,13 +4431,6 @@
         <time>2018-10-27T18:21:25Z</time>
         <hdop>46.096</hdop>
       </trkpt>
-    </trkseg>
-  </trk>
-  <trk>
-    <trkseg>
-      <extensions>
-        <speed>0.17</speed>
-      </extensions>
       <trkpt lat="51.3812853" lon="-2.3652298">
         <ele>25.02</ele>
         <time>2018-10-27T18:35:38Z</time>
@@ -4518,13 +4511,6 @@
         <time>2018-10-27T18:38:49Z</time>
         <hdop>28.944</hdop>
       </trkpt>
-    </trkseg>
-  </trk>
-  <trk>
-    <trkseg>
-      <extensions>
-        <speed>0.9</speed>
-      </extensions>
       <trkpt lat="51.3812937" lon="-2.3650993">
         <ele>25.22</ele>
         <time>2018-10-27T18:52:10Z</time>
@@ -6445,13 +6431,6 @@
         <time>2018-10-27T19:33:04Z</time>
         <hdop>18.761</hdop>
       </trkpt>
-    </trkseg>
-  </trk>
-  <trk>
-    <trkseg>
-      <extensions>
-        <speed>0.2</speed>
-      </extensions>
       <trkpt lat="51.381323" lon="-2.3622699">
         <ele>55.22</ele>
         <time>2018-10-27T20:56:06Z</time>
