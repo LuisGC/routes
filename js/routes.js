@@ -367,6 +367,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-10-06-Navegando-Altea.gpx",
     "cat": boat_cat
   },
+  "2018-11-16-Walking-in-Prague": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/czech-republic/2018-11-16-Walking-in-Prague.gpx",
+    "cat": walking_cat
+  },
   // 2019
   "2019-01-13-La-Jarosa": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
