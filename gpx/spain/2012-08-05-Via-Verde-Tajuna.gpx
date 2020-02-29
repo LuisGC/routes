@@ -17,9 +17,6 @@
         <ele>652.2</ele>
         <time>2012-08-05T07:19:56Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.303477" lon="-3.452677">
         <ele>640.2</ele>
         <time>2012-08-05T07:20:30Z</time>
@@ -4636,10 +4633,6 @@
         <ele>627.2</ele>
         <time>2012-08-05T08:42:58Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.228668" lon="-3.352068">
         <ele>631.0</ele>
         <time>2012-08-05T09:45:27Z</time>
@@ -4872,17 +4865,10 @@
         <ele>627.2</ele>
         <time>2012-08-05T09:49:22Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.22398" lon="-3.344552">
         <ele>628.4</ele>
         <time>2012-08-05T09:56:01Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.223722" lon="-3.345051">
         <ele>622.7</ele>
         <time>2012-08-05T10:25:17Z</time>
@@ -6827,9 +6813,6 @@
         <ele>633.8</ele>
         <time>2012-08-05T11:00:23Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.231901" lon="-3.43262">
         <ele>638.2</ele>
         <time>2012-08-05T11:02:40Z</time>
@@ -11299,6 +11282,5 @@
         <time>2012-08-05T12:26:26Z</time>
       </trkpt>
     </trkseg>
-    <trkseg/>
   </trk>
 </gpx>
