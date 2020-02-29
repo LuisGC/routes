@@ -11,15 +11,11 @@
       <text>Anillo Verde Ciclista</text>
     </link>
     <type>CYCLING_SPORT</type>
-    <trkseg/>
     <trkseg>
       <trkpt lat="40.485847" lon="-3.70247">
         <ele>849.5</ele>
         <time>2012-06-17T07:12:33Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.485686" lon="-3.702846">
         <ele>797.8</ele>
         <time>2012-06-17T07:13:26Z</time>
@@ -5100,9 +5096,6 @@
         <ele>691.2</ele>
         <time>2012-06-17T08:57:47Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.452278" lon="-3.605685">
         <ele>687.3</ele>
         <time>2012-06-17T08:58:27Z</time>
@@ -6075,11 +6068,6 @@
         <ele>723.4</ele>
         <time>2012-06-17T09:17:01Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg/>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.428615" lon="-3.606802">
         <ele>749.0</ele>
         <time>2012-06-17T09:39:52Z</time>
@@ -8828,9 +8816,6 @@
         <ele>621.6</ele>
         <time>2012-06-17T10:27:31Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.375091" lon="-3.684309">
         <ele>621.0</ele>
         <time>2012-06-17T10:28:41Z</time>
@@ -8851,9 +8836,6 @@
         <ele>621.4</ele>
         <time>2012-06-17T10:28:54Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.375142" lon="-3.684878">
         <ele>617.5</ele>
         <time>2012-06-17T10:35:34Z</time>
@@ -12654,12 +12636,6 @@
         <ele>652.1</ele>
         <time>2012-06-17T11:48:13Z</time>
       </trkpt>
-    </trkseg>
-    <trkseg/>
-    <trkseg/>
-    <trkseg/>
-    <trkseg/>
-    <trkseg>
       <trkpt lat="40.418163" lon="-3.734116">
         <ele>648.1</ele>
         <time>2012-06-17T12:10:10Z</time>
@@ -14929,6 +14905,5 @@
         <time>2012-06-17T12:53:59Z</time>
       </trkpt>
     </trkseg>
-    <trkseg/>
   </trk>
 </gpx>
