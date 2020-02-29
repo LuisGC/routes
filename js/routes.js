@@ -367,6 +367,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-10-06-Navegando-Altea.gpx",
     "cat": boat_cat
   },
+  "2018-10-26-Oxford": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/england/2018-10-26-Oxford.gpx",
+    "cat": walking_cat
+  },
   "2018-10-27-Blenheim-Palace": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/england/2018-10-27-Blenheim-Palace.gpx",
     "cat": walking_cat
