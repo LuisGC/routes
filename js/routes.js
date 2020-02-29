@@ -400,5 +400,9 @@ var routes_dict = {
   "2020-02-15-El-Pardo": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-02-15-El-Pardo.gpx",
     "cat": hiking_cat
+  },
+  "2020-02-29-Camino-del-Agua": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-02-29-Camino-del-Agua.gpx",
+    "cat": running_cat
   }
 };
