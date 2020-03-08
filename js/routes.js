@@ -432,5 +432,13 @@ var routes_dict = {
   "2020-02-29-Camino-del-Agua": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-02-29-Camino-del-Agua.gpx",
     "cat": running_cat
+  },
+  "2020-03-07-Geocaching-Casa-de-Campo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-03-07-Geocaching-Casa-de-Campo.gpx",
+    "cat": hiking_cat
+  },
+  "2020-03-08-Camino-Purcelli-y-Camino-del-Agua": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-03-08-Camino-Purcelli-y-Camino-del-Agua.gpx",
+    "cat": hiking_cat
   }
 };
