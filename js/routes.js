@@ -440,5 +440,17 @@ var routes_dict = {
   "2020-03-08-Camino-Purcelli-y-Camino-del-Agua": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-03-08-Camino-Purcelli-y-Camino-del-Agua.gpx",
     "cat": hiking_cat
+  },
+  "2020-06-06-Cercedilla-Camino-del-Agua": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-06-Cercedilla-Camino-del-Agua.gpx",
+    "cat": hiking_cat
+  },
+  "2020-06-07-Paseo-por-Cercedilla": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-07-Paseo-por-Cercedilla.gpx",
+    "cat": hiking_cat
+  },
+  "2020-06-13-Embalse-de-Navalmedio": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-13-Embalse-de-Navalmedio.gpx",
+    "cat": hiking_cat
   }
 };
