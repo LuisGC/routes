@@ -452,5 +452,13 @@ var routes_dict = {
   "2020-06-13-Embalse-de-Navalmedio": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-13-Embalse-de-Navalmedio.gpx",
     "cat": hiking_cat
+  },
+  "2020-08-24-Lago-Pudo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-24-Lago-Pudo.gpx",
+    "cat": hiking_cat
+  },
+  "2020-08-25-Bosque-Magico-de-Carlac": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-25-Bosque-Magico-de-Carlac.gpx",
+    "cat": hiking_cat
   }
 };
