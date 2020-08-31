@@ -475,6 +475,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2018-12-09-Romantische-Straße-20.gpx",
     "cat": car_cat
   },
+  "2018-12-11-Romantische-Straße-21": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2018-12-11-Romantische-Straße-21.gpx",
+    "cat": car_cat
+  },
   // 2019
   "2019-01-13-La-Jarosa": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
