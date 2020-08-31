@@ -468,5 +468,9 @@ var routes_dict = {
   "2020-08-27-Camino-del-Agua": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-27-Camino-del-Agua.gpx",
     "cat": hiking_cat
+  },
+  "2020-08-27-Artiga-de-Lin": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-27-Artiga-de-Lin.gpx",
+    "cat": hiking_cat
   }
 };
