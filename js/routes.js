@@ -472,5 +472,9 @@ var routes_dict = {
   "2020-08-27-Artiga-de-Lin": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-27-Artiga-de-Lin.gpx",
     "cat": hiking_cat
+  },
+  "2020-08-28-Molieres-y-Conangles": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-28-Molieres-y-Conangles.gpx",
+    "cat": hiking_cat
   }
 };
