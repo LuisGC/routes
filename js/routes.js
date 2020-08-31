@@ -395,6 +395,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/czech-republic/2018-11-16-Walking-in-Prague.gpx",
     "cat": walking_cat
   },
+  "2018-12-01-Romantische-Straße-1": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2018-12-01-Romantische-Straße-1.gpx",
+    "cat": car_cat
+  },
   // 2019
   "2019-01-13-La-Jarosa": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
