@@ -476,5 +476,9 @@ var routes_dict = {
   "2020-08-28-Cascada-de-Molieres": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-28-Cascada-de-Molieres.gpx",
     "cat": hiking_cat
+  },
+  "2020-08-29-Port-de-Bonaigua": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-29-Port-de-Bonaigua.gpx",
+    "cat": hiking_cat
   }
 };
