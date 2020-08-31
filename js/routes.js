@@ -460,5 +460,9 @@ var routes_dict = {
   "2020-08-25-Bosque-Magico-de-Carlac": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-25-Bosque-Magico-de-Carlac.gpx",
     "cat": hiking_cat
+  },
+  "2020-08-26-Montgarri": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-26-Montgarri.gpx",
+    "cat": hiking_cat
   }
 };
