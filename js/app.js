@@ -1,21 +1,14 @@
 $(document).ready(function() {
 
-    // choose map providers between: https://leaflet-extras.github.io/leaflet-providers/preview/
-    var outdoors = L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-        attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-			         '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-			         'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-        id: 'mapbox.outdoors',
-        accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNpbXV3MWw5dDAwN3V2emx5YXcwemczaWUifQ.CKHjzvK39R-lz0MAZgaLJQ'
-    });
-
-    var centerMap = [40.6390, -3.1229];
-
-    map = L.map('map', {
-        center: centerMap,
-        zoom: 9,
-        layers: [outdoors]
-    });
+    var map = L.map('map').setView([40.8265, -3.9131], 11);
+    L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+      maxZoom: 18,
+      id: 'mapbox/outdoors-v11',
+      tileSize: 512,
+      zoomOffset: -1,
+      accessToken: 'pk.eyJ1IjoibHVpc2djIiwiYSI6ImNpbXV3MWw5dDAwN3V2emx5YXcwemczaWUifQ.CKHjzvK39R-lz0MAZgaLJQ'
+    }).addTo(map);
 
     var hash = new L.Hash(map);
 
@@ -74,18 +67,7 @@ $(document).ready(function() {
         routes_bboxes[id] = gpx;
     }
 
-    map.on('moveend', function() {
-        // capturar NW y SE y seleccionar qué rutas voy a mostrar
-        console.log("NW: " + map.getBounds().getNorthWest() + " SE: " +  map.getBounds().getSouthEast());
-        var bboxMap = map.getBounds();
-        for (var id in routes_bboxes) {
-            if (isInside(routes_bboxes[id].getBounds(), bboxMap)) {
-                routes_bboxes[id].addTo(map);
-            }
-        }
-    });
+   for (var id in routes_bboxes) {
+      routes_bboxes[id].addTo(map);
+    }
 });
-
-function isInside(bboxRoute, bboxMap) {
-    return true;
-}
