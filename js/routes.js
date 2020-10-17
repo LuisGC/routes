@@ -58,7 +58,7 @@ var routes_dict = {
     "cat": biking_cat
   },
   "2012-09_Loire-a-Velo": {
-    "source": "https://raw.githubusercontent.com/yamila-moreno/routes/gh-pages/gpx/cycling/2012-09_Loire-a-Velo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09_Loire-a-Velo.gpx",
     "cat": biking_cat
   },
   "2012-09-29-Anillo-Verde-Ciclista-Nocturno": {
