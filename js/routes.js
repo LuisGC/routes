@@ -373,6 +373,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/poland/2016-08-27-Krakow-night.gpx",
     "cat": walking_cat
   },
+  "2016-08-28-Krakow-Jewish-Quarter": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/poland/2016-08-28-Krakow-Jewish-Quarter.gpx",
+    "cat": walking_cat
+  },
   "2016-10-09-Puentes-Medievales-Lozoya": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-10-09-Puentes-Medievales-Lozoya.gpx",
     "cat": hiking_cat
