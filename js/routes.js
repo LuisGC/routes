@@ -283,6 +283,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-22-Las-Torcas.gpx",
     "cat": hiking_cat
   },
+  "2014-08-20-Cuenca": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-20-Cuenca.gpx",
+    "cat": walking_cat
+  },
   "2014-10-05-Fiesta-de-la-Bici-2014": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-10-05-Fiesta-de-la-Bici-2014.gpx",
     "cat": biking_cat
