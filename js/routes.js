@@ -291,6 +291,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-10-05-Fiesta-de-la-Bici-2014.gpx",
     "cat": biking_cat
   },
+  "2014-11-07-Vienna": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/austria/2014-11-07-Vienna.gpx",
+    "cat": walking_cat
+  },
   "2014-12-14-Carrera-Empresas-2014": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-12-14-Carrera-Empresas-2014.gpx",
     "cat": running_cat
