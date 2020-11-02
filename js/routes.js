@@ -275,6 +275,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-15-Valle-medio-del-Arlanza.gpx",
     "cat": hiking_cat
   },
+  "2014-08-19-Las-Chorreras": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-19-Las-Chorreras.gpx",
+    "cat": hiking_cat
+  },
   "2014-10-05-Fiesta-de-la-Bici-2014": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-10-05-Fiesta-de-la-Bici-2014.gpx",
     "cat": biking_cat
