@@ -61,9 +61,13 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09-01-Biganos-Angers.gpx",
     "cat": car_cat
   },
-  "2012-09_Loire-a-Velo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09_Loire-a-Velo.gpx",
+  "2012-09-02_09-Loire-a-Velo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09-02_09-Loire-a-Velo.gpx",
     "cat": biking_cat
+  },
+  "2012-09-10-Angers-La-Brede": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/france/2012-09-10-Angers-La-Brede.gpx",
+    "cat": car_cat
   },
   "2012-09-29-Anillo-Verde-Ciclista-Nocturno": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-09-29-Anillo-Verde-Ciclista-Nocturno.gpx",
