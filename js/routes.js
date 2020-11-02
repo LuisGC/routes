@@ -299,6 +299,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/austria/2014-11-09-Vienna.gpx",
     "cat": walking_cat
   },
+  "2014-11-10-Budapest": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/austria/2014-11-10-Budapest.gpx",
+    "cat": walking_cat
+  },
   "2014-12-14-Carrera-Empresas-2014": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-12-14-Carrera-Empresas-2014.gpx",
     "cat": running_cat
