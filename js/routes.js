@@ -247,6 +247,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-18-ING-Running-for-UNICEF.gpx",
     "cat": running_cat
   },
+  "2014-06-21-Sant-Miquel-de-Fai": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-21-Sant-Miquel-de-Fai.gpx",
+    "cat": hiking_cat
+  },
   "2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
     "cat": biking_cat
