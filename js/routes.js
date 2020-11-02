@@ -401,6 +401,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/poland/2016-09-02-Wroklaw-Islands-Bridges.gpx",
     "cat": walking_cat
   },
+  "2016-09-03-Krakow-Old-Town": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/poland/2016-09-03-Krakow-Old-Town.gpx",
+    "cat": walking_cat
+  },
   "2016-10-09-Puentes-Medievales-Lozoya": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-10-09-Puentes-Medievales-Lozoya.gpx",
     "cat": hiking_cat
