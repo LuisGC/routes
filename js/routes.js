@@ -150,6 +150,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-20-Villanueva-Canada.gpx",
     "cat": biking_cat
   },
+  "2013-07-24-De-Sanchinarro-a-Valdebebas": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-24-De-Sanchinarro-a-Valdebebas.gpx",
+    "cat": biking_cat
+  },
   "2013-07-31-Sanchinarro": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-31-Sanchinarro.gpx",
     "cat": biking_cat
