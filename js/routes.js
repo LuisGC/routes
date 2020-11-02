@@ -235,6 +235,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-11-Via-Verde-Jara.gpx",
     "cat": biking_cat
   },
+  "2014-05-25-Aranjuez": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-25-Aranjuez.gpx",
+    "cat": walking_cat
+  },
   "2014-06-15-Madrid-Norte-contra-Sur": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-15-Madrid-Norte-contra-Sur.gpx",
     "cat": running_cat
