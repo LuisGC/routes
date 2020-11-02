@@ -564,5 +564,9 @@ var routes_dict = {
   "2020-08-29-Port-de-Bonaigua": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-29-Port-de-Bonaigua.gpx",
     "cat": hiking_cat
+  },
+  "2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba",
+    "cat": hiking_cat
   }
 };
