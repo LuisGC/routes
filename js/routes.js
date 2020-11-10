@@ -708,5 +708,9 @@ var routes_dict = {
   "2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba.gpx",
     "cat": hiking_cat
+  },
+  "2020-11-09-Mingorrubio": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-09-Mingorrubio.gpx",
+    "cat": hiking_cat
   }
 };
