@@ -716,5 +716,9 @@ var routes_dict = {
   "2020-11-15-Perdiguera-Genciana-Abedular-Canencia": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-15-Perdiguera-Genciana-Abedular-Canencia.gpx",
     "cat": hiking_cat
+  },
+  "2020-11-22-Rascafria-Carro-Diablo-Presa-Artinuelo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-22-Rascafria-Carro-Diablo-Presa-Artinuelo.gpx",
+    "cat": hiking_cat
   }
 };
