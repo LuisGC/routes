@@ -724,5 +724,9 @@ var routes_dict = {
   "2020-12-06-Colada-Gallegos-Colada-Huelgas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-12-06-Colada-Gallegos-Colada-Huelgas.gpx",
     "cat": hiking_cat
+  },
+  "2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro.gpx",
+    "cat": hiking_cat
   }
 };
