@@ -732,5 +732,9 @@ var routes_dict = {
   "2021-01-07-Navalvillar-Remedios": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-01-07-Navalvillar-Remedios.gpx",
     "cat": walking_cat
+  },
+  "2021-03-20-Tranco-Pedriza-Cantocochino": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-20-Tranco-Pedriza-Cantocochino.gpx",
+    "cat": hiking_cat
   }
 };
