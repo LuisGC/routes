@@ -740,5 +740,9 @@ var routes_dict = {
   "2021-03-21-Cercedilla-La-Penota": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-21-Cercedilla-La-Penota.gpx",
     "cat": hiking_cat
+  },
+  "2021-03-31-Silla-Felipe-II-Machota": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-31-Silla-Felipe-II-Machota.gpx",
+    "cat": hiking_cat
   }
 };
