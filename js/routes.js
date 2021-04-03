@@ -744,5 +744,9 @@ var routes_dict = {
   "2021-03-31-Silla-Felipe-II-Machota": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-31-Silla-Felipe-II-Machota.gpx",
     "cat": hiking_cat
+  },
+  "2021-04-01-Cercedilla-Cerro-Colgado-Camorritos": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-04-01-Cercedilla-Cerro-Colgado-Camorritos.gpx",
+    "cat": hiking_cat
   }
 };
