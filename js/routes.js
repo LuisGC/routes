@@ -748,5 +748,9 @@ var routes_dict = {
   "2021-04-01-Cercedilla-Cerro-Colgado-Camorritos": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-04-01-Cercedilla-Cerro-Colgado-Camorritos.gpx",
     "cat": hiking_cat
+  },
+  "2021-05-23-Senda-de-la-Barranca": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-05-23-Senda-de-la-Barranca.gpx",
+    "cat": hiking_cat
   }
 };
