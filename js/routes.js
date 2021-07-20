@@ -309,44 +309,44 @@ var routes_dict = {
   },
   // 2015
   "2015-07-19-Parque-Felipe-VI": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-07-19-Parque-Felipe-VI.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015/2015-07-19-Parque-Felipe-VI.gpx",
     "cat": biking_cat
   },
   "2015-10-04-Fiesta-de-la-Bici-2015": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-10-04-Fiesta-de-la-Bici-2015.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015/2015-10-04-Fiesta-de-la-Bici-2015.gpx",
     "cat": biking_cat
   },
   "2015-10-24-Navaluenga": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015-10-24-Navaluenga.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2015/2015-10-24-Navaluenga.gpx",
     "cat": hiking_cat
   },
   // 2016
   "2016-05-14-Laguna-Negra-Urbion": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Laguna-Negra-Urbion.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-14-Laguna-Negra-Urbion.gpx",
     "cat": hiking_cat
   },
   "2016-05-14-Lagunas-de-Neila": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-14-Lagunas-de-Neila.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-14-Lagunas-de-Neila.gpx",
     "cat": hiking_cat
   },
   "2016-05-15-Canon-Rio-Lobos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-15-Canon-Rio-Lobos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-15-Canon-Rio-Lobos.gpx",
     "cat": hiking_cat
   },
   "2016-05-17-Via-Verde-Ojos-Negros-1": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-17-Via-Verde-Ojos-Negros-1.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-17-Via-Verde-Ojos-Negros-1.gpx",
     "cat": biking_cat
   },
   "2016-05-18-Via-Verde-Ojos-Negros-2": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-18-Via-Verde-Ojos-Negros-2.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-18-Via-Verde-Ojos-Negros-2.gpx",
     "cat": biking_cat
   },
   "2016-05-19-Via-Verde-Ojos-Negros-3": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-19-Via-Verde-Ojos-Negros-3.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-19-Via-Verde-Ojos-Negros-3.gpx",
     "cat": biking_cat
   },
   "2016-05-20-Via-Verde-Ojos-Negros-4": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-05-20-Via-Verde-Ojos-Negros-4.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-05-20-Via-Verde-Ojos-Negros-4.gpx",
     "cat": biking_cat
   },
   "2016-08-25-Krakow": {
@@ -426,17 +426,17 @@ var routes_dict = {
     "cat": walking_cat
   },
   "2016-10-09-Puentes-Medievales-Lozoya": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016-10-09-Puentes-Medievales-Lozoya.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2016/2016-10-09-Puentes-Medievales-Lozoya.gpx",
     "cat": hiking_cat
   },
   // 2017
   "2017-10-07-Cascada-del-Purgatorio": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2017-10-07-Cascada-del-Purgatorio.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2017/2017-10-07-Cascada-del-Purgatorio.gpx",
     "cat": hiking_cat
   },
   // 2018
   "2018-03-10-Rio-Dulce": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-03-10-Rio-Dulce.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-03-10-Rio-Dulce.gpx",
     "cat": hiking_cat
   },
   "2018-04-30-Puck's-Glen": {
@@ -484,27 +484,27 @@ var routes_dict = {
     "cat": hiking_cat
   },
   "2018-08-14-Fervenza-do-Toxa": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-08-14-Fervenza-do-Toxa.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-08-14-Fervenza-do-Toxa.gpx",
     "cat": hiking_cat
   },
   "2018-08-17-Isla-de-Ons": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-08-17-Isla-de-Ons.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-08-17-Isla-de-Ons.gpx",
     "cat": hiking_cat
   },
   "2018-09-08-Romeria-a-Mamblas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-08-Romeria-a-Mamblas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-09-08-Romeria-a-Mamblas.gpx",
     "cat": hiking_cat
   },
   "2018-09-09-Romeria-a-Redonda": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-09-09-Romeria-a-Redonda.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-09-09-Romeria-a-Redonda.gpx",
     "cat": hiking_cat
   },
   "2018-10-06-Navegando-Altea": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-10-06-Navegando-Altea.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-10-06-Navegando-Altea.gpx",
     "cat": boat_cat
   },
   "2018-10-07-Navegando-Altea": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018-10-07-Navegando-Altea.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2018/2018-10-07-Navegando-Altea.gpx",
     "cat": boat_cat
   },
   "2018-10-26-Oxford": {
@@ -617,19 +617,19 @@ var routes_dict = {
   },
   // 2019
   "2019-01-13-La-Jarosa": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-01-13-La-Jarosa.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019/2019-01-13-La-Jarosa.gpx",
     "cat": hiking_cat
   },
   "2019-03-16-Navarredonda-de-Gredos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-03-16-Navarredonda-de-Gredos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019/2019-03-16-Navarredonda-de-Gredos.gpx",
     "cat": hiking_cat
   },
   "2019-06-16-Ruta-VIII-Vinos-con-Historia": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-06-16-Ruta-VIII-Vinos-con-Historia.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019/2019-06-16-Ruta-VIII-Vinos-con-Historia.gpx",
     "cat": hiking_cat
   },
   "2019-09-07-Marismas-El-Rompido": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-09-07-Marismas-El-Rompido.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019/2019-09-07-Marismas-El-Rompido.gpx",
     "cat": biking_cat
   },
   "2019-09-16-Jiankou-to-Mutianyu-Great-Wall-Hike": {
@@ -637,116 +637,116 @@ var routes_dict = {
     "cat": hiking_cat
   },
   "2019-11-30-Fuenfria-desde-Cercedilla": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019-11-30-Fuenfria-desde-Cercedilla.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2019/2019-11-30-Fuenfria-desde-Cercedilla.gpx",
     "cat": hiking_cat
   },
   // 2020
   "2020-01-12-Canto-Cochino-Tolmo-Yelmo-Elefantito-Cinco-Cestos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-01-12-Canto-Cochino-Tolmo-Yelmo-Elefantito-Cinco-Cestos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-01-12-Canto-Cochino-Tolmo-Yelmo-Elefantito-Cinco-Cestos.gpx",
     "cat": hiking_cat
   },
   "2020-02-15-El-Pardo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-02-15-El-Pardo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-02-15-El-Pardo.gpx",
     "cat": hiking_cat
   },
   "2020-02-29-Camino-del-Agua": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-02-29-Camino-del-Agua.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-02-29-Camino-del-Agua.gpx",
     "cat": running_cat
   },
   "2020-03-07-Geocaching-Casa-de-Campo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-03-07-Geocaching-Casa-de-Campo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-03-07-Geocaching-Casa-de-Campo.gpx",
     "cat": hiking_cat
   },
   "2020-03-08-Camino-Purcelli-y-Camino-del-Agua": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-03-08-Camino-Purcelli-y-Camino-del-Agua.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-03-08-Camino-Purcelli-y-Camino-del-Agua.gpx",
     "cat": hiking_cat
   },
   "2020-06-06-Cercedilla-Camino-del-Agua": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-06-Cercedilla-Camino-del-Agua.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-06-06-Cercedilla-Camino-del-Agua.gpx",
     "cat": hiking_cat
   },
   "2020-06-07-Paseo-por-Cercedilla": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-07-Paseo-por-Cercedilla.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-06-07-Paseo-por-Cercedilla.gpx",
     "cat": hiking_cat
   },
   "2020-06-13-Embalse-de-Navalmedio": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-06-13-Embalse-de-Navalmedio.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-06-13-Embalse-de-Navalmedio.gpx",
     "cat": hiking_cat
   },
   "2020-08-24-Lago-Pudo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-24-Lago-Pudo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-24-Lago-Pudo.gpx",
     "cat": hiking_cat
   },
   "2020-08-25-Bosque-Magico-de-Carlac": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-25-Bosque-Magico-de-Carlac.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-25-Bosque-Magico-de-Carlac.gpx",
     "cat": hiking_cat
   },
   "2020-08-26-Montgarri": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-26-Montgarri.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-26-Montgarri.gpx",
     "cat": hiking_cat
   },
   "2020-08-27-Camino-del-Agua": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-27-Camino-del-Agua.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-27-Camino-del-Agua.gpx",
     "cat": hiking_cat
   },
   "2020-08-27-Artiga-de-Lin": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-27-Artiga-de-Lin.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-27-Artiga-de-Lin.gpx",
     "cat": hiking_cat
   },
   "2020-08-28-Cascada-de-Molieres": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-28-Cascada-de-Molieres.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-28-Cascada-de-Molieres.gpx",
     "cat": hiking_cat
   },
   "2020-08-29-Port-de-Bonaigua": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-08-29-Port-de-Bonaigua.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-08-29-Port-de-Bonaigua.gpx",
     "cat": hiking_cat
   },
   "2020-09-06-Punta-del-Moral-Isla-Canela-Ayamonte": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-09-06-Punta-del-Moral-Isla-Canela-Ayamonte.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-09-06-Punta-del-Moral-Isla-Canela-Ayamonte.gpx",
     "cat": walking_cat
   },
   "2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-11-01-Circular-Cancho-de-la-Cabeza-Patones-de-Arriba.gpx",
     "cat": hiking_cat
   },
   "2020-11-09-Mingorrubio": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-09-Mingorrubio.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-11-09-Mingorrubio.gpx",
     "cat": hiking_cat
   },
   "2020-11-15-Perdiguera-Genciana-Abedular-Canencia": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-15-Perdiguera-Genciana-Abedular-Canencia.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-11-15-Perdiguera-Genciana-Abedular-Canencia.gpx",
     "cat": hiking_cat
   },
   "2020-11-22-Rascafria-Carro-Diablo-Presa-Artinuelo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-11-22-Rascafria-Carro-Diablo-Presa-Artinuelo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-11-22-Rascafria-Carro-Diablo-Presa-Artinuelo.gpx",
     "cat": hiking_cat
   },
   "2020-12-06-Colada-Gallegos-Colada-Huelgas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020-12-06-Colada-Gallegos-Colada-Huelgas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-12-06-Colada-Gallegos-Colada-Huelgas.gpx",
     "cat": hiking_cat
   },
   "2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro.gpx",
     "cat": hiking_cat
   },
   "2021-01-07-Navalvillar-Remedios": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-01-07-Navalvillar-Remedios.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-01-07-Navalvillar-Remedios.gpx",
     "cat": walking_cat
   },
   "2021-03-20-Tranco-Pedriza-Cantocochino": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-20-Tranco-Pedriza-Cantocochino.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-03-20-Tranco-Pedriza-Cantocochino.gpx",
     "cat": hiking_cat
   },
   "2021-03-21-Cercedilla-La-Penota": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-21-Cercedilla-La-Penota.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-03-21-Cercedilla-La-Penota.gpx",
     "cat": hiking_cat
   },
   "2021-03-31-Silla-Felipe-II-Machota": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-03-31-Silla-Felipe-II-Machota.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-03-31-Silla-Felipe-II-Machota.gpx",
     "cat": hiking_cat
   },
   "2021-04-01-Cercedilla-Cerro-Colgado-Camorritos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021-04-01-Cercedilla-Cerro-Colgado-Camorritos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-04-01-Cercedilla-Cerro-Colgado-Camorritos.gpx",
     "cat": hiking_cat
   },
   "2021-05-23-Senda-de-la-Barranca": {
