@@ -752,5 +752,9 @@ var routes_dict = {
   "2021-05-23-Senda-de-la-Barranca": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-05-23-Senda-de-la-Barranca.gpx",
     "cat": hiking_cat
+  },
+  "2021-06-05-Collado-Amigos-Camino-Campamentos": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-06-05-Collado-Amigos-Camino-Campamentos.gpx",
+    "cat": hiking_cat
   }
 };
