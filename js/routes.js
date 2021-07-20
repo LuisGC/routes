@@ -756,5 +756,9 @@ var routes_dict = {
   "2021-06-05-Collado-Amigos-Camino-Campamentos": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-06-05-Collado-Amigos-Camino-Campamentos.gpx",
     "cat": hiking_cat
+  },
+  "2021-06-20-Pico-de-la-Pala": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-06-20-Pico-de-la-Pala.gpx",
+    "cat": hiking_cat
   }
 };
