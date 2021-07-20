@@ -768,5 +768,9 @@ var routes_dict = {
   "2021-07-09-Gorbea-Senda-Rio-Baia": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-07-09-Gorbea-Senda-Rio-Baia.gpx",
     "cat": hiking_cat
+  },
+  "2021-07-11-Subida-Txarlazo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-07-11-Subida-Txarlazo.gpx",
+    "cat": hiking_cat
   }
 };
