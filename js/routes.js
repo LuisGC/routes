@@ -1,60 +1,60 @@
 var routes_dict = {
   // 2011
   "2011-02-19-Lunada-con-raquetas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-02-19-Lunada-con-raquetas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011/2011-02-19-Lunada-con-raquetas.gpx",
     "cat": snowhiking_cat
   },
   "2011-02-26-Parque-Juan-Carlos-I": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-02-26-Parque-Juan-Carlos-I.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011/2011-02-26-Parque-Juan-Carlos-I.gpx",
     "cat": biking_cat
   },
   "2011-07-02-Covarrubias-Redonda": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-07-02-Covarrubias-Redonda.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011/2011-07-02-Covarrubias-Redonda.gpx",
     "cat": biking_cat
   },
   "2011-07-10-Covarrubias-Puentedura": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-07-10-Covarrubias-Puentedura.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011/2011-07-10-Covarrubias-Puentedura.gpx",
     "cat": biking_cat
   },
   "2011-08-21-Leon-Villanueva-del-Arbol": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011-08-21-Leon-Villanueva-del-Arbol.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2011/2011-08-21-Leon-Villanueva-del-Arbol.gpx",
     "cat": biking_cat
   },
   // 2012
   "2012-02-18-La-Pedriza": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-02-18-La-Pedriza.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-02-18-La-Pedriza.gpx",
     "cat": hiking_cat
   },
   "2012-05-27-Casa-Campo-Madrid-Rio": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-05-27-Casa-Campo-Madrid-Rio.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-05-27-Casa-Campo-Madrid-Rio.gpx",
     "cat": biking_cat
   },
   "2012-06-17-Anillo-Verde-Ciclista": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-06-17-Anillo-Verde-Ciclista.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-06-17-Anillo-Verde-Ciclista.gpx",
     "cat": biking_cat
   },
   "2012-07-15-Valle-Rio-Dulce-Siguenza": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-07-15-Valle-Rio-Dulce-Siguenza.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-07-15-Valle-Rio-Dulce-Siguenza.gpx",
     "cat": biking_cat
   },
   "2012-08-05-Via-Verde-Tajuna": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-05-Via-Verde-Tajuna.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-08-05-Via-Verde-Tajuna.gpx",
     "cat": biking_cat
   },
   "2012-08-13-Carabanchel": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-13-Carabanchel.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-08-13-Carabanchel.gpx",
     "cat": biking_cat
   },
   "2012-08-15-Casa-de-Campo-Madrid-Rio": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-15-Casa-de-Campo-Madrid-Rio.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-08-15-Casa-de-Campo-Madrid-Rio.gpx",
     "cat": biking_cat
   },
   "2012-08-18-Circular-Segovia": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-18-Circular-Segovia.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-08-18-Circular-Segovia.gpx",
     "cat": biking_cat
   },
   "2012-08-25-Covarrubias-Ura-Castroceniza-Retuerta": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-08-25-Covarrubias-Ura-Castroceniza-Retuerta.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-08-25-Covarrubias-Ura-Castroceniza-Retuerta.gpx",
     "cat": biking_cat
   },
   "2012-09-01-Biganos-Angers": {
@@ -70,225 +70,225 @@ var routes_dict = {
     "cat": car_cat
   },
   "2012-09-29-Anillo-Verde-Ciclista-Nocturno": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-09-29-Anillo-Verde-Ciclista-Nocturno.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-09-29-Anillo-Verde-Ciclista-Nocturno.gpx",
     "cat": biking_cat
   },
   "2012-10-12-Casa-de-Campo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-12-Casa-de-Campo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-10-12-Casa-de-Campo.gpx",
     "cat": biking_cat
   },
   "2012-10-14-Carrera-Empresas-2012": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-14-Carrera-Empresas-2012.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-10-14-Carrera-Empresas-2012.gpx",
     "cat": running_cat
   },
   "2012-10-20-Fuenfria-Mirador-Poetas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-10-20-Fuenfria-Mirador-Poetas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-10-20-Fuenfria-Mirador-Poetas.gpx",
     "cat": hiking_cat
   },
   "2012-11-03-Navacerrada-Siete-Picos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-03-Navacerrada-Siete-Picos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-03-Navacerrada-Siete-Picos.gpx",
     "cat": hiking_cat
   },
   "2012-11-11-Carrera-Aficiones-2012": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-11-Carrera-Aficiones-2012.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-11-Carrera-Aficiones-2012.gpx",
     "cat": running_cat
   },
   "2012-11-24-Hayedo-de-Tejera-Negra-1": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-1.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-24-Hayedo-de-Tejera-Negra-1.gpx",
     "cat": biking_cat
   },
   "2012-11-24-Hayedo-de-Tejera-Negra-2": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-2.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-24-Hayedo-de-Tejera-Negra-2.gpx",
     "cat": hiking_cat
   },
   "2012-11-24-Hayedo-de-Tejera-Negra-3": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-24-Hayedo-de-Tejera-Negra-3.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-24-Hayedo-de-Tejera-Negra-3.gpx",
     "cat": biking_cat
   },
   "2012-11-25-Pico-Ocejon": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012-11-25-Pico-Ocejon.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2012/2012-11-25-Pico-Ocejon.gpx",
     "cat": hiking_cat
   },
   // 2013
   "2013-01-25-Lunada-con-Raquetas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-01-25-Lunada-con-Raquetas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-01-25-Lunada-con-Raquetas.gpx",
     "cat": snowhiking_cat
   },
   "2013-02-10-Raquetas-Penalara": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-02-10-Raquetas-Penalara.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-02-10-Raquetas-Penalara.gpx",
     "cat": snowhiking_cat
   },
   "2013-02-23-Raquetas-Loma-Noruego-Valdemartin": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-02-23-Raquetas-Loma-Noruego-Valdemartin.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-02-23-Raquetas-Loma-Noruego-Valdemartin.gpx",
     "cat": snowhiking_cat
   },
   "2013-06-15-Siete-Picos": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-06-15-Siete-Picos.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-06-15-Siete-Picos.gpx",
     "cat": hiking_cat
   },
   "2013-06-29-Subida-nocturna-Peñalara": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-06-29-Subida-nocturna-Peñalara.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-06-29-Subida-nocturna-Peñalara.gpx",
     "cat": hiking_cat
   },
   "2013-07-06-Canencia-Morcuera": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-06-Canencia-Morcuera.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-06-Canencia-Morcuera.gpx",
     "cat": hiking_cat
   },
   "2013-07-07-Bicho-Race-2013": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-07-Bicho-Race-2013.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-07-Bicho-Race-2013.gpx",
     "cat": running_cat
   },
   "2013-07-13-Sanchinarro-Ribera-del-Loira": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-13-Sanchinarro-Ribera-del-Loira.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-13-Sanchinarro-Ribera-del-Loira.gpx",
     "cat": biking_cat
   },
   "2013-07-18-Sanchinarro-Las-Tablas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-18-Sanchinarro-Las-Tablas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-18-Sanchinarro-Las-Tablas.gpx",
     "cat": biking_cat
   },
   "2013-07-20-Villanueva-Canada": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-20-Villanueva-Canada.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-20-Villanueva-Canada.gpx",
     "cat": biking_cat
   },
   "2013-07-24-De-Sanchinarro-a-Valdebebas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-24-De-Sanchinarro-a-Valdebebas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-24-De-Sanchinarro-a-Valdebebas.gpx",
     "cat": biking_cat
   },
   "2013-07-31-Sanchinarro": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-07-31-Sanchinarro.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-07-31-Sanchinarro.gpx",
     "cat": biking_cat
   },
   "2013-08-15-Bajada-barranco-Peonera-Inferior": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Bajada-barranco-Peonera-Inferior.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-15-Bajada-barranco-Peonera-Inferior.gpx",
     "cat": hiking_cat
   },
   "2013-08-15-Barranco-Peonera-Inferior": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-15-Barranco-Peonera-Inferior.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-15-Barranco-Peonera-Inferior.gpx",
     "cat": canyoing_cat
   },
   "2013-08-17-Baqueira-Beret-Vielha": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-17-Baqueira-Beret-Vielha.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-17-Baqueira-Beret-Vielha.gpx",
     "cat": hiking_cat
   },
   "2013-08-17-Artiga-de-Lin": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-17-Artiga-de-Lin.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-17-Artiga-de-Lin.gpx",
     "cat": hiking_cat
   },
   "2013-08-22-Canoas-Pantano-San-Juan": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-22-Canoas-Pantano-San-Juan.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-22-Canoas-Pantano-San-Juan.gpx",
     "cat": canoeing_cat
   },
   "2013-08-31-Rascafria-RV5-RV1": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-08-31-Rascafria-RV5-RV1.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-08-31-Rascafria-RV5-RV1.gpx",
     "cat": hiking_cat
   },
   "2013-10-20-Carrera-Ciencia-2013": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-10-20-Carrera-Ciencia-2013.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-10-20-Carrera-Ciencia-2013.gpx",
     "cat": running_cat
   },
   "2013-11-10-Carrera-Aficiones-2013": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-10-Carrera-Aficiones-2013.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-11-10-Carrera-Aficiones-2013.gpx",
     "cat": running_cat
   },
   "2013-11-17-Ponton-Oliva-Carcavas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-11-17-Ponton-Oliva-Carcavas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-11-17-Ponton-Oliva-Carcavas.gpx",
     "cat": hiking_cat
   },
   "2013-12-14-Carrera-Papa-Noel-2013": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-12-14-Carrera-Papa-Noel-2013.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-12-14-Carrera-Papa-Noel-2013.gpx",
     "cat": running_cat
   },
   "2013-12-21-Pedro-Bernardo": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013-12-21-Pedro-Bernardo.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2013/2013-12-21-Pedro-Bernardo.gpx",
     "cat": walking_cat
   },
   // 2014
   "2014-02-22-las-dos-Machotas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-02-22-las-dos-Machotas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-02-22-las-dos-Machotas.gpx",
     "cat": hiking_cat
   },
   "2014-03-08-Barcelona": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-03-08-Barcelona.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-03-08-Barcelona.gpx",
     "cat": walking_cat
   },
   "2014-03-14-Monasterio-de-Piedra": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-03-14-Monasterio-de-Piedra.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-03-14-Monasterio-de-Piedra.gpx",
     "cat": hiking_cat
   },
   "2014-03-22-Covarrubias-San-Olaf-Nebreda": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-03-22-Covarrubias-San-Olaf-Nebreda.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-03-22-Covarrubias-San-Olaf-Nebreda.gpx",
     "cat": hiking_cat
   },
   "2014-04-14-Monte-Santiago-Salto-Nervion": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-04-14-Monte-Santiago-Salto-Nervion.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-04-14-Monte-Santiago-Salto-Nervion.gpx",
     "cat": hiking_cat
   },
   "2014-04-15-Ojo-Guarena": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-04-15-Ojo-Guarena.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-04-15-Ojo-Guarena.gpx",
     "cat": hiking_cat
   },
   "2014-05-03-Alborache": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-03-Alborache.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-05-03-Alborache.gpx",
     "cat": hiking_cat
   },
   "2014-05-11-Via-Verde-Jara": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-11-Via-Verde-Jara.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-05-11-Via-Verde-Jara.gpx",
     "cat": biking_cat
   },
   "2014-05-25-Aranjuez": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-05-25-Aranjuez.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-05-25-Aranjuez.gpx",
     "cat": walking_cat
   },
   "2014-06-15-Madrid-Norte-contra-Sur": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-15-Madrid-Norte-contra-Sur.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-06-15-Madrid-Norte-contra-Sur.gpx",
     "cat": running_cat
   },
   "2014-06-18-ING-Running-for-UNICEF": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-18-ING-Running-for-UNICEF.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-06-18-ING-Running-for-UNICEF.gpx",
     "cat": running_cat
   },
   "2014-06-21-Sant-Miquel-de-Fai": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-21-Sant-Miquel-de-Fai.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-06-21-Sant-Miquel-de-Fai.gpx",
     "cat": walking_cat
   },
   "2014-06-21-Caldes-de-Montbui": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-06-21-Caldes-de-Montbui.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-06-21-Caldes-de-Montbui.gpx",
     "cat": walking_cat
   },
   "2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-07-20-Anillo-verde-Parque-Juan-Carlos-I-Valdebebas.gpx",
     "cat": biking_cat
   },
   "2014-07-26-Hoces-Duraton": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-07-26-Hoces-Duraton.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-07-26-Hoces-Duraton.gpx",
     "cat": canoeing_cat
   },
   "2014-08-03-Sanchinarro-El-Goloso": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-03-Sanchinarro-El-Goloso.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-03-Sanchinarro-El-Goloso.gpx",
     "cat": biking_cat
   },
   "2014-08-13-Ruta-Bodegas-Covarrubias": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-13-Ruta-Bodegas-Covarrubias.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-13-Ruta-Bodegas-Covarrubias.gpx",
     "cat": hiking_cat
   },
   "2014-08-15-Valle-medio-del-Arlanza": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-15-Valle-medio-del-Arlanza.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-15-Valle-medio-del-Arlanza.gpx",
     "cat": hiking_cat
   },
   "2014-08-19-Las-Chorreras": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-19-Las-Chorreras.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-19-Las-Chorreras.gpx",
     "cat": hiking_cat
   },
   "2014-08-22-Las-Torcas": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-22-Las-Torcas.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-22-Las-Torcas.gpx",
     "cat": hiking_cat
   },
   "2014-08-20-Cuenca": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-08-20-Cuenca.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-08-20-Cuenca.gpx",
     "cat": walking_cat
   },
   "2014-10-05-Fiesta-de-la-Bici-2014": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-10-05-Fiesta-de-la-Bici-2014.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-10-05-Fiesta-de-la-Bici-2014.gpx",
     "cat": biking_cat
   },
   "2014-11-07-Vienna": {
@@ -304,7 +304,7 @@ var routes_dict = {
     "cat": walking_cat
   },
   "2014-12-14-Carrera-Empresas-2014": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014-12-14-Carrera-Empresas-2014.gpx",
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2014/2014-12-14-Carrera-Empresas-2014.gpx",
     "cat": running_cat
   },
   // 2015
