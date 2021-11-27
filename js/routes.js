@@ -776,5 +776,9 @@ var routes_dict = {
   "2021-10-30-canon-de-anisclo-ermita-de-san-urbez": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-10-30-canon-de-anisclo-ermita-de-san-urbez.gpx",
     "cat": hiking_cat
+  },
+  "2021-10-31-Miradores-Revilla-Garganta-Escuaín": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-10-31-Miradores-Revilla-Garganta-Escuaín.gpx",
+    "cat": hiking_cat
   }
 };
