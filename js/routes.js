@@ -800,5 +800,9 @@ var routes_dict = {
   "2021-11-08-Parque-Natural-Senorio-Bertiz": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-08-Parque-Natural-Senorio-Bertiz.gpx",
     "cat": hiking_cat
+  },
+  "2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz.gpx",
+    "cat": walking_cat
   }
 };
