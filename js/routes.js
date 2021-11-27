@@ -788,5 +788,9 @@ var routes_dict = {
   "2021-11-02-Pradera-de-ordesa-cascadas-Gradas-Soaso-Cola-Caballo": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-02-Pradera-de-ordesa-cascadas-Gradas-Soaso-Cola-Caballo.gpx",
     "cat": hiking_cat
+  },
+  "2021-11-04-Bosque-Pardina-Senor-Pardina-Ballarin": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-04-Bosque-Pardina-Senor-Pardina-Ballarin.gpx",
+    "cat": hiking_cat
   }
 };
