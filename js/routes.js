@@ -773,8 +773,8 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-07-11-Subida-Txarlazo.gpx",
     "cat": hiking_cat
   },
-  "2021-10-30-canon-de-anisclo-ermita-de-san-urbez": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-10-30-canon-de-anisclo-ermita-de-san-urbez.gpx",
+  "2021-10-30-Canon-de-Anisclo-Ermita-de-San-Urbez": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-10-30-Canon-de-Anisclo-Ermita-de-San-Urbez.gpx",
     "cat": hiking_cat
   },
   "2021-10-31-Miradores-Revilla-Garganta-Escuain": {
