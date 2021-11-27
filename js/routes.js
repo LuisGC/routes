@@ -781,8 +781,8 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-10-31-Miradores-Revilla-Garganta-Escuain.gpx",
     "cat": hiking_cat
   },
-  "2021-11-01-banos-de-panticosa-ibon-y-miradores": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-01-banos-de-panticosa-ibon-y-miradores.gpx",
+  "2021-11-01-Banos-de-Panticosa-ibon-y-miradores": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-01-Banos-de-Panticosa-ibon-y-miradores.gpx",
     "cat": hiking_cat
   },
   "2021-11-02-Pradera-de-ordesa-cascadas-Gradas-Soaso-Cola-Caballo": {
