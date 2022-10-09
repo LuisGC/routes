@@ -821,8 +821,8 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-07_Seronera-Mara.gpx",
     "cat": car_cat
   },
-  "2022-09-09_Mara-Ndutu": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-09_Mara-Ndutu.gpx",
+  "2022-09-09_Mara-Lake-Masek": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-09_Mara-Lake-Masek.gpx",
     "cat": car_cat
   },
   "2022-09-10_Ngorongoro": {
