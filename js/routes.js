@@ -805,6 +805,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz.gpx",
     "cat": walking_cat
   },
+  "2022-03-27-Valdemanco": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-03-27-Valdemanco.gpx",
+    "cat": hiking_cat
+  },
   "2022-09-04_Tarangire": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-04_Tarangire.gpx",
     "cat": car_cat
