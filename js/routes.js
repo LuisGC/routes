@@ -821,8 +821,8 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-02-05_Parque-Valdelatas.gpx",
     "cat": hiking_cat
   },
-  "2022-03-27-Valdemanco": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-03-27-Valdemanco.gpx",
+  "2022-03-27_Valdemanco": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-03-27_Valdemanco.gpx",
     "cat": hiking_cat
   },
   "2022-09-04_Tarangire": {
