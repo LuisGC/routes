@@ -804,5 +804,29 @@ var routes_dict = {
   "2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz.gpx",
     "cat": walking_cat
+  },
+  "2022-09-04_Tarangire": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-04_Tarangire.gpx",
+    "cat": car_cat
+  },
+  "2022-09-05_Lake-Eyasi": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-05_Lake-Eyasi.gpx",
+    "cat": car_cat
+  },
+  "2022-09-06_Karatu-Seronera": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-06_Karatu-Seronera.gpx",
+    "cat": car_cat
+  },
+  "2022-09-07_Seronera-Mara": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-07_Seronera-Mara.gpx",
+    "cat": car_cat
+  },
+  "2022-09-09_Mara-Ndutu": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-09_Mara-Ndutu.gpx",
+    "cat": car_cat
+  },
+  "2022-09-10_Ngorongoro": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-10_Ngorongoro.gpx",
+    "cat": car_cat
   }
 };
