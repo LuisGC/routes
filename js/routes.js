@@ -852,5 +852,9 @@ var routes_dict = {
   "2022-10-12_Lagos-Covadonga-Mirador-Rey": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-12_Lagos-Covadonga-Mirador-Rey.gpx",
     "cat": hiking_cat
+  },
+  "2022-10-13_Ruta-del-Cares": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-13_Ruta-del-Cares",
+    "cat": hiking_cat
   }
 };
