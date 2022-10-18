@@ -848,5 +848,9 @@ var routes_dict = {
   "2022-09-10_Ngorongoro": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/tanzania/2022-09-10_Ngorongoro.gpx",
     "cat": car_cat
+  },
+  "2022-10-12_Lagos-Covadonga-Mirador-Rey": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-12_Lagos-Covadonga-Mirador-Rey.gpx",
+    "cat": hiking_cat
   }
 };
