@@ -860,5 +860,9 @@ var routes_dict = {
   "2022-10-14_Bulnes-Poncebos": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-14_Bulnes-Poncebos",
     "cat": hiking_cat
+  },
+  "2022-10-15_Fuente-De-Puertos-Aliva": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-15_Fuente-De-Puertos-Aliva",
+    "cat": hiking_cat
   }
 };
