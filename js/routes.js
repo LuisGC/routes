@@ -864,5 +864,9 @@ var routes_dict = {
   "2022-10-15_Fuente-De-Puertos-Aliva": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-15_Fuente-De-Puertos-Aliva.gpx",
     "cat": hiking_cat
+  },
+  "2022-11-05_Abedular-de-Canencia": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-11-05_Abedular-de-Canencia.gpx",
+    "cat": hiking_cat
   }
 };
