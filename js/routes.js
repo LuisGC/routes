@@ -655,7 +655,7 @@ var routes_dict = {
   },
   "2020-03-07-Geocaching-Casa-de-Campo": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-03-07-Geocaching-Casa-de-Campo.gpx",
-    "cat": hiking_cat
+    "cat": walking_cat
   },
   "2020-03-08-Camino-Purcelli-y-Camino-del-Agua": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-03-08-Camino-Purcelli-y-Camino-del-Agua.gpx",
