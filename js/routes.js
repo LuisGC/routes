@@ -725,6 +725,7 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2020/2020-12-06-Colada-Gallegos-Colada-Huelgas.gpx",
     "cat": hiking_cat
   },
+  // 2021
   "2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-01-05-Dehesa-Navalvillar-Cerro-San-Pedro.gpx",
     "cat": hiking_cat
@@ -817,6 +818,7 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2021/2021-11-09-Jardin-Botanico-Parque-Natural-Senorio-Bertiz.gpx",
     "cat": walking_cat
   },
+  // 2022
   "2022-02-05_Parque-Valdelatas": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-02-05_Parque-Valdelatas.gpx",
     "cat": hiking_cat
@@ -873,8 +875,17 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-11-12_Robledal_y_Hayedo_de_Tejera_Negra.gpx",
     "cat": hiking_cat
   },
+  // 2023
   "2023-03-20_Casa_de_Campo": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2023/2023-03-20_Casa_de_Campo.gpx",
     "cat": walking_cat
+  },
+  "2023-04-30_Bogensport_Hotel_-_Ronda_Africana": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-04-30_Bogensport_Hotel_-_Ronda_Africana.gpx",
+    "cat": archery_cat
+  },
+  "2023-04-30_Bogensport_Hotel_-_Ronda_Norte": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-04-30_Bogensport_Hotel_-_Ronda_Norte.gpx",
+    "cat": archery_cat
   }
 };
