@@ -880,6 +880,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2023/2023-03-20_Casa_de_Campo.gpx",
     "cat": walking_cat
   },
+  "2023-04-29_Der_Waldlaufer": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-04-29_Der_Waldlaufer.gpx",
+    "cat": archery_cat
+  },
   "2023-04-30_Bogensport_Hotel_-_Ronda_Africana": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-04-30_Bogensport_Hotel_-_Ronda_Africana.gpx",
     "cat": archery_cat
