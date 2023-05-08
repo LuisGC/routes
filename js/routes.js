@@ -887,5 +887,9 @@ var routes_dict = {
   "2023-04-30_Bogensport_Hotel_-_Ronda_Norte": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-04-30_Bogensport_Hotel_-_Ronda_Norte.gpx",
     "cat": archery_cat
+  },
+  "2023-05-02_Bogenparcours_Gamshorn_Trail": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-05-02_Bogenparcours_Gamshorn_Trail.gpx",
+    "cat": archery_cat
   }
 };
