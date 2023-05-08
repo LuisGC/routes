@@ -872,5 +872,9 @@ var routes_dict = {
   "2022-11-12_Robledal_y_Hayedo_de_Tejera_Negra": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-11-12_Robledal_y_Hayedo_de_Tejera_Negra.gpx",
     "cat": hiking_cat
+  },
+  "2023-03-20_Casa_de_Campo": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2023/2023-03-20_Casa_de_Campo.gpx",
+    "cat": walking_cat
   }
 };
