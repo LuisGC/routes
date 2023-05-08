@@ -69,6 +69,6 @@ var snowhiking_cat = {
 };
 
 var archery_cat = {
-    "color": "yellow",
+    "color": "pink",
     "icon": "walk"
 };
