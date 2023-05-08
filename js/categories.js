@@ -1,5 +1,5 @@
 var walking_cat = {
-    "color": "grey",
+    "color": "purple",
     "icon": "walk"
 };
 
