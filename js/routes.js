@@ -865,8 +865,8 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-10-15_Fuente-De-Puertos-Aliva.gpx",
     "cat": hiking_cat
   },
-  "2022-11-05_Abedular-de-Canencia": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-11-05_Abedular-de-Canencia.gpx",
+  "2022-11-05_Abedular_de_Canencia": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2022/2022-11-05_Abedular_de_Canencia.gpx",
     "cat": hiking_cat
   },
   "2022-11-12_Robledal_y_Hayedo_de_Tejera_Negra": {
