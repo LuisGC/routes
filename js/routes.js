@@ -900,4 +900,9 @@ var routes_dict = {
   "2025-04-13 Tamanrasset - Assekrem": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-13_Tamanrasset-Assekrem.gpx",
     "cat": car_cat
-  }};
+  },
+  "2025-04-14 Assekrem hacia Djanet por Tamanrasset": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-14_Assekrem-Tamanrasset.gpx",
+    "cat": car_cat
+  }  
+};
