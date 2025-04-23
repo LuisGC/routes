@@ -913,6 +913,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-16_Erg-DAjmer-Djanet.gpx",
     "cat": car_cat
   },
+  "2025-04-16 Erg D'Ajmer": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-16_Erg-DAjmer.gpx",
+    "cat": hiking_cat
+  },
   "2025-04-17 Djanet - Tassili Tamrit": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Djanet-Tassili-Tamrit.gpx",
     "cat": car_cat
