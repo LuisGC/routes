@@ -895,5 +895,9 @@ var routes_dict = {
   "2023-05-02_Bogenparcours_Gamshorn_Trail": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-05-02_Bogenparcours_Gamshorn_Trail.gpx",
     "cat": archery_cat
-  }
-};
+  },
+  // 2025
+  "2025-04-13 Tamanrasset - Assekrem": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-13_Tamanrasset-Assekrem.gpx",
+    "cat": car_cat
+  }};
