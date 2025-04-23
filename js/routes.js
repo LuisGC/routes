@@ -920,5 +920,9 @@ var routes_dict = {
   "2025-04-17 Djanet - Tassili Tamrit": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Djanet-Tassili-Tamrit.gpx",
     "cat": car_cat
+  },
+  "2025-04-17 Tassili Tamrit Path": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Tassili-Tamrit-Path.gpx",
+    "cat": hiking_cat
   }  
 };
