@@ -905,8 +905,12 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-14_Assekrem-Idles.gpx",
     "cat": car_cat
   },
-  "2025-04-15 Idles - Erg D'ajmer": {
+  "2025-04-15 Idles - Erg D'Ajmer": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-15_Idles-Erg-DAjmer.gpx",
+    "cat": car_cat
+  },
+  "2025-04-16 Erg D'Ajmer - Djanet": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-16_Erg-DAjmer-Djanet.gpx",
     "cat": car_cat
   }  
 };
