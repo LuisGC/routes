@@ -901,12 +901,12 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-13_Tamanrasset-Assekrem.gpx",
     "cat": car_cat
   },
-  "2025-04-14 Assekrem hacia Djanet por Tamanrasset": {
+  "2025-04-14 Assekrem - Idles": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-14_Assekrem-Idles.gpx",
     "cat": car_cat
   },
-  "2025-04-15 Llegada a Djanet": {
-    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-15_Idles-Djanet.gpx",
+  "2025-04-15 Idles - Erg D'ajmer": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-15_Idles-Erg-DAjmer.gpx",
     "cat": car_cat
   }  
 };
