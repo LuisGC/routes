@@ -924,5 +924,9 @@ var routes_dict = {
   "2025-04-17 Tassili Tamrit Path": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Tassili-Tamrit-Path.gpx",
     "cat": hiking_cat
+  },
+  "2025-04-17 Tamrit - Tan Zoumaitak": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Tamrit-Tan-Zoumaitak.gpx",
+    "cat": hiking_cat
   }  
 };
