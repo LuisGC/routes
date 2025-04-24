@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-04 Fjadrárgljúfur": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-04_Fjadrargljufur.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-04 Hundafoss y Svartifoss": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-04_Hundafoss-Svartifoss.gpx",
     "cat": hiking_cat
