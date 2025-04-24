@@ -937,6 +937,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-18_Sefar-de-la-negresse.gpx",
     "cat": hiking_cat
   },
+  "2025-04-19 Sefar": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-19_Sefar.gpx",
+    "cat": hiking_cat
+  },
   "2025-04-19 Sefar - Tin Itinen": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-19_Sefar-Tin-Itinen.gpx",
     "cat": hiking_cat
