@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-12 Bláhnúkur y Brennisteinsalda desde Landmannalaugar": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-12_Blahnukur-Brennisteinsalda-Landmannalaugar.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-13 Skogar - Suðurnámur - Landmannalaugar": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-13_Skogar-Sudurnamur-Landmannalaugar.gpx",
     "cat": hiking_cat
