@@ -928,5 +928,9 @@ var routes_dict = {
   "2025-04-17 Tamrit - Tan Zoumaitak": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-17_Tamrit-Tan-Zoumaitak.gpx",
     "cat": hiking_cat
+  },
+  "2025-04-20 Tar Itinen - Tamrit - parking": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-20_Tar-Itinen-Tamrit-parking.gpx",
+    "cat": hiking_cat
   }  
 };
