@@ -948,5 +948,9 @@ var routes_dict = {
   "2025-04-20 Tar Itinen - Tamrit - parking": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-20_Tar-Itinen-Tamrit-parking.gpx",
     "cat": hiking_cat
+  },
+  "2025-04-20 Tassili - Djanet - Djanet Airport": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/algiers/2025-04-20_Tassili-Djanet-Djanet-Airport.gpx",
+    "cat": car_cat
   }  
 };
