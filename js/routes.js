@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-13 Skogar - Suðurnámur - Landmannalaugar": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-13_Skogar-Sudurnamur-Landmannalaugar.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-14 Whale watching": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-14_whale-watching.gpx",
     "cat": boat_cat
