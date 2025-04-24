@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-05 Svínafellsjökull": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-05_Svinafellsjokull.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-05 Fjallsjökull": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-05_Fjallsjokull.gpx",
     "cat": hiking_cat
