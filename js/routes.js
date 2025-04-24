@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-07 Rjúkandafoss": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-07_Rjukandafoss.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-07 Cañón de Studlagil": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-07_Canon-Studlagil.gpx",
     "cat": hiking_cat
