@@ -897,9 +897,13 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-11 Geysir": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-11_Geysir.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-11 Gullfoss": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-11_Gullfoss.gpx",
-    "cat": walking_cat
+    "cat": hiking_cat
   },
   "2024-09-12 Bláhnúkur y Brennisteinsalda desde Landmannalaugar": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-12_Blahnukur-Brennisteinsalda-Landmannalaugar.gpx",
