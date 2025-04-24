@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-09-11 Almannagjá": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-11_Almannagja.gpx",
+    "cat": hiking_cat
+  },
   "2024-09-11 Geysir": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/iceland/2024-09-11_Geysir.gpx",
     "cat": hiking_cat
