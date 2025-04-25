@@ -896,6 +896,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-05-02_Bogenparcours_Gamshorn_Trail.gpx",
     "cat": archery_cat
   },
+  "2023-05-15 Chorros del Manzanares y Charca Verde desde Cantocochino": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2023/2023-05-15_Chorros-del-Manzanares-y-Charca-Verde.gpx",
+    "cat": hiking_cat
+  },
   "2023-10-27 Miyajima": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/japan/2023-10-27_Miyajima.gpx",
     "cat": hiking_cat
