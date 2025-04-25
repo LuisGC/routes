@@ -897,6 +897,10 @@ var routes_dict = {
     "cat": archery_cat
   },
   // 2024
+  "2024-08-16 Souto da Retorta y O Avó": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2024/2024-08-16_Souto-da-Retorta.gpx",
+    "cat": hiking_cat
+  },
   "2024-08-16 Ruta Ventureira por el Monasterio de Caaveiro, Puente de Santa Cristina y Puente de Ventureira - Fragas do Eume": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2024/2024-08-16_Ruta-Ventureira-Fragas-Eume.gpx",
     "cat": hiking_cat
