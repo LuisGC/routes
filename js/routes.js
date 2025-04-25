@@ -896,6 +896,10 @@ var routes_dict = {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/germany/2023-05-02_Bogenparcours_Gamshorn_Trail.gpx",
     "cat": archery_cat
   },
+  "2023-10-27 Miyajima": {
+    "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/japan/2023-10-27_Miyajima.gpx",
+    "cat": hiking_cat
+  },
   // 2024
   "2024-07-27 Coll de la Mola, Cantal Gros y Bartolo desde Mirador de Sant Josep": {
     "source": "https://raw.githubusercontent.com/LuisGC/routes/master/gpx/spain/2024/2024-07-27_Coll-de-la-Mola-Cantal-Gros-Bartolo.gpx",
